@@ -8,11 +8,11 @@ Every coding exercise were executed again to replicate the gay_seattle pratical 
 <details>
   <summary><b>Troubleshoot</b></summary>
 
-1. [package installation]() The extra package spacy can be downloaded using !python -m spacy download en_core_web_sm
+1. [package installation](https://github.com/gracejia513/06_ai_deliverable/blob/main/Troubleshoot01.png?raw=true) The extra package spacy can be downloaded using !python -m spacy download en_core_web_sm
 
-2. [drive mount] () It is better to mount to personal Google drive than that of using UW's email
+2. [drive mount](https://github.com/gracejia513/06_ai_deliverable/blob/main/Troubleshoot02.png?raw=true) It is better to mount to personal Google drive than that of using UW's email
 
-3. [missing font] () verdana.ttf was missing in the asset. 
+3. [missing font](https://github.com/gracejia513/06_ai_deliverable/blob/main/Troubleshoot03.png?raw=true) verdana.ttf was missing in the asset. 
 
 </details>
 <br/>
@@ -20,8 +20,11 @@ Every coding exercise were executed again to replicate the gay_seattle pratical 
 ### Part 2: Rerunning 010-040 using native_seattle data
 Exercise 010 to 040 were execuded with downloaded native-seattle data. Additionaly, social network analyysis was performed using the generated data.
 The social network looks like this.
-
+![native_network](/img/native_seattle_gephi.pdf)
 
 
 ### Part 3: Comparison summary
-The book *Native Seattle* illustrates a place-based story that connects the early and the contemporary native community in Seattle. Native people and places played a vital part in the founding of Seattle and in what the city is today, just as urban changes transformed what it meant to be Native ()
+The book *Native Seattle* illustrates a place-based story that connects the early and the contemporary native community in Seattle. Native people and places played a vital part in the founding of Seattle and in what the city is today, just as urban changes transformed what it meant to be Native.
+
+
+Referencecs
