@@ -26,10 +26,17 @@ The social network looks like this.
 ### Part 3: Comparison summary
 The book, *Native Seattle*, illustrates a place-based story that connects the early and the contemporary native community in Seattle. Native people and places played a vital part in the founding of Seattle and in what the city is today, just as urban changes transformed what it meant to be native. Thrush looked into the ways in which different populations inhabited and enriched the place of Seattle. Judging from *Native Seattle* word cloud, the word indigenous closely resides and with town, duwamish, river, and other "place" related words. This positioning and connection mirrors the key message of the book, looking at how people and place evolve as an ecosystem. 
 ![](https://github.com/gracejia513/06_ai_deliverable/blob/main/img/native-seattle.png)
-However, it was observed that the algorithm did not rule out the single letters in the word cloud. But this issue was later resolved in constructing the social network. It was observed that *Native Seattle*'s social network has a slightly lower modularity than that of the *Gay Seattle*. Modularity reflects how words are densely connected to other words within the same cluster but sparsely connected to words in different clusters. In this sense, the structure of *Gay Seattle* might be more clustered and clearly delineated. 
+However, it was observed that the algorithm did not rule out the single letters in the word cloud. But this issue was later resolved in constructing the social network. It was observed that *Native Seattle*'s social network has a slightly lower modularity than that of the *Gay Seattle*. Modularity reflects how words are densely connected to other words within the same cluster but sparsely connected to words in different clusters. In this sense, the structure of *Gay Seattle* might be more clustered and clearly delineated.  
+
+![](https://github.com/gracejia513/06_ai_deliverable/blob/main/img/gay-seattle-Grace.png)
+Taking a different perspective, *Gay Seattle*'s word cloud reflected the author's main effort to discribe how the gay and lesbian communities have struggled, evolved, and created "a sense of belonging in Seattle." The word cloud has multiple entities, service groups and knitted toghther. The connection between people is also present in the clusters in its social network.
+![](https://github.com/gracejia513/06_ai_deliverable/blob/main/gay_seattle_gephi.png)
+It was also observed that, for *Gay Seattle* the social network nodes settled faster than that of *Native Seattle*. And checking the "stronger grravity" box in the layout->tuning parameters section makes the nodes move even longer in both case. 
+
+Overall, I really enjoyed creating the word cloud as it delivers the key information using color and font size. It grabs the reader's attention to the most dominant topic with large and bold font, and naturally links to other topics by position and color. The cloud itself can be thought of as a road map that deciphers the book's intent. It leads the readers in and yet leaves many mysteries to be solved.
 
 
 ## Reference
 - [Resource 1:](https://github.com/jakobzhao/geog595/tree/master/06_ai)
 - [Resource 2:](https://www.goodreads.com/book/show/562626.Native_Seattle)
-
+- [Resource 3:](https://www.goodreads.com/en/book/show/1252504.Gay_Seattle)
