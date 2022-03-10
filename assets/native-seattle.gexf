@@ -1,0 +1,1554 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
+  <meta lastmodifieddate="2022-03-09">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="s" label="s" />
+      <node id="e" label="e" />
+      <node id="a" label="a" />
+      <node id="t" label="t" />
+      <node id="l" label="l" />
+      <node id="m" label="m" />
+      <node id="n" label="n" />
+      <node id="w" label="w" />
+      <node id="h" label="h" />
+      <node id="i" label="i" />
+      <node id="seattle" label="seattle" />
+      <node id="meanwhile" label="meanwhile" />
+      <node id="o" label="o" />
+      <node id="r" label="r" />
+      <node id="c" label="c" />
+      <node id="historical" label="historical" />
+      <node id="f" label="f" />
+      <node id="y" label="y" />
+      <node id="family" label="family" />
+      <node id="water" label="water" />
+      <node id="lawton" label="lawton" />
+      <node id="d" label="d" />
+      <node id="day" label="day" />
+      <node id="fort" label="fort" />
+      <node id="v" label="v" />
+      <node id="several" label="several" />
+      <node id="area" label="area" />
+      <node id="march" label="march" />
+      <node id="foot" label="foot" />
+      <node id="times" label="times" />
+      <node id="g" label="g" />
+      <node id="harrington" label="harrington" />
+      <node id="recalled" label="recalled" />
+      <node id="may" label="may" />
+      <node id="mary" label="mary" />
+      <node id="p" label="p" />
+      <node id="shop" label="shop" />
+      <node id="streets" label="streets" />
+      <node id="american" label="american" />
+      <node id="go" label="go" />
+      <node id="u" label="u" />
+      <node id="county" label="county" />
+      <node id="tion" label="tion" />
+      <node id="village" label="village" />
+      <node id="cedar" label="cedar" />
+      <node id="tlingit" label="tlingit" />
+      <node id="indian" label="indian" />
+      <node id="places" label="places" />
+      <node id="local" label="local" />
+      <node id="would" label="would" />
+      <node id="many" label="many" />
+      <node id="place" label="place" />
+      <node id="settlers" label="settlers" />
+      <node id="duwamish" label="duwamish" />
+      <node id="women" label="women" />
+      <node id="community" label="community" />
+      <node id="fact" label="fact" />
+      <node id="b" label="b" />
+      <node id="urban" label="urban" />
+      <node id="river" label="river" />
+      <node id="indigenous" label="indigenous" />
+      <node id="also" label="also" />
+      <node id="part" label="part" />
+      <node id="town" label="town" />
+      <node id="past" label="past" />
+      <node id="k" label="k" />
+      <node id="known" label="known" />
+      <node id="around" label="around" />
+      <node id="century" label="century" />
+      <node id="stories" label="stories" />
+      <node id="white" label="white" />
+      <node id="lake" label="lake" />
+      <node id="point" label="point" />
+      <node id="kind" label="kind" />
+      <node id="people" label="people" />
+      <node id="native" label="native" />
+      <node id="crossing" label="crossing" />
+      <node id="imagery" label="imagery" />
+      <node id="twentieth" label="twentieth" />
+      <node id="immediately" label="immediately" />
+      <node id="ghost" label="ghost" />
+      <node id="non" label="non" />
+      <node id="x" label="x" />
+      <node id="experiences" label="experiences" />
+      <node id="city" label="city" />
+      <node id="made" label="made" />
+      <node id="even" label="even" />
+      <node id="become" label="become" />
+      <node id="lived" label="lived" />
+      <node id="home" label="home" />
+      <node id="well" label="well" />
+      <node id="residents" label="residents" />
+      <node id="little" label="little" />
+      <node id="indians" label="indians" />
+      <node id="first" label="first" />
+      <node id="among" label="among" />
+      <node id="one" label="one" />
+      <node id="life" label="life" />
+      <node id="great" label="great" />
+      <node id="tribal" label="tribal" />
+      <node id="come" label="come" />
+      <node id="nature" label="nature" />
+      <node id="name" label="name" />
+      <node id="years" label="years" />
+      <node id="public" label="public" />
+      <node id="described" label="described" />
+      <node id="near" label="near" />
+      <node id="came" label="came" />
+      <node id="example" label="example" />
+      <node id="man" label="man" />
+      <node id="power" label="power" />
+      <node id="likely" label="likely" />
+      <node id="could" label="could" />
+      <node id="small" label="small" />
+      <node id="told" label="told" />
+      <node id="another" label="another" />
+      <node id="spirit" label="spirit" />
+      <node id="work" label="work" />
+      <node id="potlatch" label="potlatch" />
+      <node id="ta" label="ta" />
+      <node id="sturtevant" label="sturtevant" />
+      <node id="lexington" label="lexington" />
+      <node id="kenneth" label="kenneth" />
+      <node id="lowman" label="lowman" />
+      <node id="harold" label="harold" />
+      <node id="j" label="j" />
+      <node id="jonathan" label="jonathan" />
+      <node id="beginnings" label="beginnings" />
+      <node id="vol" label="vol" />
+      <node id="imbricated" label="imbricated" />
+      <node id="knopf" label="knopf" />
+      <node id="mrs" label="mrs" />
+      <node id="living" label="living" />
+      <node id="washington" label="washington" />
+      <node id="vancouver" label="vancouver" />
+      <node id="western" label="western" />
+      <node id="site" label="site" />
+      <node id="union" label="union" />
+      <node id="environmental" label="environmental" />
+      <node id="others" label="others" />
+      <node id="island" label="island" />
+      <node id="land" label="land" />
+      <node id="away" label="away" />
+      <node id="north" label="north" />
+      <node id="history" label="history" />
+      <node id="archives" label="archives" />
+      <node id="seeathl" label="seeathl" />
+      <node id="state" label="state" />
+      <node id="society" label="society" />
+      <node id="peoples" label="peoples" />
+      <node id="became" label="became" />
+      <node id="pacific" label="pacific" />
+      <node id="often" label="often" />
+      <node id="war" label="war" />
+      <node id="wrote" label="wrote" />
+      <node id="wife" label="wife" />
+      <node id="early" label="early" />
+      <node id="rather" label="rather" />
+      <node id="tribe" label="tribe" />
+      <node id="press" label="press" />
+      <node id="charles" label="charles" />
+      <node id="smith" label="smith" />
+      <node id="robert" label="robert" />
+      <node id="co" label="co" />
+      <node id="thomas" label="thomas" />
+      <node id="william" label="william" />
+      <node id="mscua" label="mscua" />
+      <node id="mohai" label="mohai" />
+      <node id="warren" label="warren" />
+      <node id="june" label="june" />
+      <node id="february" label="february" />
+      <node id="angeline" label="angeline" />
+      <node id="richard" label="richard" />
+      <node id="judge" label="judge" />
+      <node id="april" label="april" />
+      <node id="blaine" label="blaine" />
+      <node id="eds" label="eds" />
+      <node id="james" label="james" />
+      <node id="marian" label="marian" />
+      <node id="dictionary" label="dictionary" />
+      <node id="famous" label="famous" />
+      <node id="interior" label="interior" />
+      <node id="august" label="august" />
+      <node id="see" label="see" />
+      <node id="sound" label="sound" />
+      <node id="across" label="across" />
+      <node id="throughout" label="throughout" />
+      <node id="party" label="party" />
+      <node id="along" label="along" />
+      <node id="leaders" label="leaders" />
+      <node id="house" label="house" />
+      <node id="nous" label="nous" />
+      <node id="south" label="south" />
+      <node id="used" label="used" />
+      <node id="days" label="days" />
+      <node id="still" label="still" />
+      <node id="central" label="central" />
+      <node id="arrival" label="arrival" />
+      <node id="ever" label="ever" />
+      <node id="remained" label="remained" />
+      <node id="whulshootseed" label="whulshootseed" />
+      <node id="university" label="university" />
+      <node id="alaska" label="alaska" />
+      <node id="puyallup" label="puyallup" />
+      <node id="john" label="john" />
+      <node id="jay" label="jay" />
+      <node id="paul" label="paul" />
+      <node id="george" label="george" />
+      <node id="daniel" label="daniel" />
+      <node id="david" label="david" />
+      <node id="portland" label="portland" />
+      <node id="november" label="november" />
+      <node id="columbia" label="columbia" />
+      <node id="september" label="september" />
+      <node id="chicago" label="chicago" />
+      <node id="collection" label="collection" />
+      <node id="notes" label="notes" />
+      <node id="january" label="january" />
+      <node id="spring" label="spring" />
+      <node id="daughter" label="daughter" />
+      <node id="davis" label="davis" />
+      <node id="age" label="age" />
+      <node id="papers" label="papers" />
+      <node id="mercer" label="mercer" />
+      <node id="books" label="books" />
+      <node id="ing" label="ing" />
+      <node id="cities" label="cities" />
+      <node id="national" label="national" />
+      <node id="old" label="old" />
+      <node id="fire" label="fire" />
+      <node id="street" label="street" />
+      <node id="makah" label="makah" />
+      <node id="things" label="things" />
+      <node id="cultural" label="cultural" />
+      <node id="real" label="real" />
+      <node id="high" label="high" />
+      <node id="words" label="words" />
+      <node id="names" label="names" />
+      <node id="woman" label="woman" />
+      <node id="left" label="left" />
+      <node id="change" label="change" />
+      <node id="four" label="four" />
+      <node id="puget" label="puget" />
+      <node id="beach" label="beach" />
+      <node id="gathering" label="gathering" />
+      <node id="good" label="good" />
+      <node id="mouth" label="mouth" />
+      <node id="inside" label="inside" />
+      <node id="fish" label="fish" />
+      <node id="reflected" label="reflected" />
+      <node id="families" label="families" />
+      <node id="back" label="back" />
+      <node id="ship" label="ship" />
+      <node id="agency" label="agency" />
+      <node id="three" label="three" />
+      <node id="ways" label="ways" />
+      <node id="williams" label="williams" />
+      <node id="line" label="line" />
+      <node id="totem" label="totem" />
+      <node id="railroad" label="railroad" />
+      <node id="wa" label="wa" />
+      <node id="west" label="west" />
+      <node id="time" label="time" />
+      <node id="like" label="like" />
+      <node id="two" label="two" />
+      <node id="found" label="found" />
+      <node id="called" label="called" />
+      <node id="tribes" label="tribes" />
+      <node id="landscape" label="landscape" />
+      <node id="much" label="much" />
+      <node id="story" label="story" />
+      <node id="way" label="way" />
+      <node id="world" label="world" />
+      <node id="end" label="end" />
+      <node id="together" label="together" />
+      <node id="long" label="long" />
+      <node id="whose" label="whose" />
+      <node id="however" label="however" />
+      <node id="seemed" label="seemed" />
+      <node id="race" label="race" />
+      <node id="brought" label="brought" />
+      <node id="park" label="park" />
+      <node id="denny" label="denny" />
+      <node id="king" label="king" />
+      <node id="ballard" label="ballard" />
+      <node id="built" label="built" />
+      <node id="report" label="report" />
+      <node id="gold" label="gold" />
+      <node id="seen" label="seen" />
+      <node id="development" label="development" />
+      <node id="tell" label="tell" />
+      <node id="members" label="members" />
+      <node id="northwest" label="northwest" />
+      <node id="pioneers" label="pioneers" />
+      <node id="might" label="might" />
+      <node id="salmon" label="salmon" />
+      <node id="center" label="center" />
+      <node id="helped" label="helped" />
+      <node id="waterman" label="waterman" />
+      <node id="large" label="large" />
+      <node id="hill" label="hill" />
+      <node id="named" label="named" />
+      <node id="men" label="men" />
+      <node id="yesler" label="yesler" />
+      <node id="publishing" label="publishing" />
+      <node id="chief" label="chief" />
+      <node id="pole" label="pole" />
+      <node id="red" label="red" />
+      <node id="modern" label="modern" />
+      <node id="next" label="next" />
+      <node id="reservation" label="reservation" />
+      <node id="children" label="children" />
+      <node id="bay" label="bay" />
+      <node id="civic" label="civic" />
+      <node id="every" label="every" />
+      <node id="pioneer" label="pioneer" />
+      <node id="district" label="district" />
+      <node id="school" label="school" />
+      <node id="wealth" label="wealth" />
+      <node id="tilikums" label="tilikums" />
+      <node id="took" label="took" />
+      <node id="canoes" label="canoes" />
+      <node id="beyond" label="beyond" />
+      <node id="downtown" label="downtown" />
+      <node id="us" label="us" />
+      <node id="far" label="far" />
+      <node id="york" label="york" />
+      <node id="hanford" label="hanford" />
+      <node id="edited" label="edited" />
+      <node id="prosch" label="prosch" />
+      <node id="ye" label="ye" />
+      <node id="ms" label="ms" />
+      <node id="bruce" label="bruce" />
+      <node id="covered" label="covered" />
+      <node id="ch" label="ch" />
+      <node id="chadwick" label="chadwick" />
+      <node id="kinnear" label="kinnear" />
+      <node id="stauss" label="stauss" />
+      <node id="changers" label="changers" />
+      <node id="coast" label="coast" />
+      <node id="creation" label="creation" />
+      <node id="said" label="said" />
+    </nodes>
+    <edges>
+      <edge id="0" source="e" target="n" weight="0.9999707937240601" />
+      <edge id="1" source="e" target="g" weight="0.9999539852142334" />
+      <edge id="2" source="e" target="f" weight="0.999951183795929" />
+      <edge id="3" source="e" target="c" weight="0.9999462366104126" />
+      <edge id="4" source="e" target="r" weight="0.9997087121009827" />
+      <edge id="5" source="e" target="h" weight="0.9996886849403381" />
+      <edge id="6" source="e" target="l" weight="0.9990683794021606" />
+      <edge id="7" source="e" target="ta" weight="0.9973742961883545" />
+      <edge id="8" source="e" target="u" weight="0.9955853819847107" />
+      <edge id="9" source="e" target="v" weight="0.9686377644538879" />
+      <edge id="10" source="e" target="p" weight="0.9618048071861267" />
+      <edge id="11" source="e" target="b" weight="0.9542256593704224" />
+      <edge id="12" source="e" target="sturtevant" weight="0.9347390532493591" />
+      <edge id="13" source="e" target="w" weight="0.9327881336212158" />
+      <edge id="14" source="e" target="x" weight="0.8903471231460571" />
+      <edge id="15" source="e" target="lexington" weight="0.8778350949287415" />
+      <edge id="16" source="e" target="kenneth" weight="0.8534095883369446" />
+      <edge id="17" source="e" target="lowman" weight="0.8528174161911011" />
+      <edge id="18" source="e" target="harold" weight="0.8418833017349243" />
+      <edge id="19" source="e" target="jonathan" weight="0.8406738638877869" />
+      <edge id="20" source="e" target="beginnings" weight="0.8405541777610779" />
+      <edge id="21" source="e" target="vol" weight="0.8281677961349487" />
+      <edge id="22" source="e" target="imbricated" weight="0.8225858211517334" />
+      <edge id="23" source="e" target="knopf" weight="0.8138794898986816" />
+      <edge id="24" source="e" target="mrs" weight="0.8087785243988037" />
+      <edge id="25" source="l" target="r" weight="0.9997696280479431" />
+      <edge id="26" source="l" target="g" weight="0.999281644821167" />
+      <edge id="27" source="l" target="c" weight="0.9991999864578247" />
+      <edge id="28" source="l" target="e" weight="0.9990682601928711" />
+      <edge id="29" source="l" target="f" weight="0.9990336894989014" />
+      <edge id="30" source="l" target="n" weight="0.9989968538284302" />
+      <edge id="31" source="l" target="u" weight="0.998625636100769" />
+      <edge id="32" source="l" target="ta" weight="0.9984056949615479" />
+      <edge id="33" source="l" target="h" weight="0.9978519082069397" />
+      <edge id="34" source="l" target="v" weight="0.9781390428543091" />
+      <edge id="35" source="l" target="p" weight="0.9723613858222961" />
+      <edge id="36" source="l" target="b" weight="0.965839147567749" />
+      <edge id="37" source="l" target="sturtevant" weight="0.9481173753738403" />
+      <edge id="38" source="l" target="w" weight="0.9470350742340088" />
+      <edge id="39" source="l" target="x" weight="0.9086095690727234" />
+      <edge id="40" source="l" target="lexington" weight="0.8967264890670776" />
+      <edge id="41" source="l" target="kenneth" weight="0.8742028474807739" />
+      <edge id="42" source="l" target="lowman" weight="0.8735009431838989" />
+      <edge id="43" source="l" target="harold" weight="0.8634853363037109" />
+      <edge id="44" source="l" target="beginnings" weight="0.8622470498085022" />
+      <edge id="45" source="l" target="jonathan" weight="0.8619434237480164" />
+      <edge id="46" source="l" target="vol" weight="0.8507323265075684" />
+      <edge id="47" source="l" target="imbricated" weight="0.8440853357315063" />
+      <edge id="48" source="l" target="knopf" weight="0.8365905284881592" />
+      <edge id="49" source="l" target="mrs" weight="0.832643985748291" />
+      <edge id="50" source="n" target="e" weight="0.9999707937240601" />
+      <edge id="51" source="n" target="f" weight="0.999944269657135" />
+      <edge id="52" source="n" target="c" weight="0.9999437928199768" />
+      <edge id="53" source="n" target="g" weight="0.99993896484375" />
+      <edge id="54" source="n" target="h" weight="0.9997535347938538" />
+      <edge id="55" source="n" target="r" weight="0.9996731281280518" />
+      <edge id="56" source="n" target="l" weight="0.998996913433075" />
+      <edge id="57" source="n" target="ta" weight="0.9972615838050842" />
+      <edge id="58" source="n" target="u" weight="0.9953911304473877" />
+      <edge id="59" source="n" target="v" weight="0.9681005477905273" />
+      <edge id="60" source="n" target="p" weight="0.9612134695053101" />
+      <edge id="61" source="n" target="b" weight="0.9535713195800781" />
+      <edge id="62" source="n" target="sturtevant" weight="0.933833658695221" />
+      <edge id="63" source="n" target="w" weight="0.9320172667503357" />
+      <edge id="64" source="n" target="x" weight="0.8893828988075256" />
+      <edge id="65" source="n" target="lexington" weight="0.8767784833908081" />
+      <edge id="66" source="n" target="kenneth" weight="0.852263331413269" />
+      <edge id="67" source="n" target="lowman" weight="0.8516482710838318" />
+      <edge id="68" source="n" target="harold" weight="0.8407262563705444" />
+      <edge id="69" source="n" target="jonathan" weight="0.8394399285316467" />
+      <edge id="70" source="n" target="beginnings" weight="0.8393927812576294" />
+      <edge id="71" source="n" target="vol" weight="0.8269471526145935" />
+      <edge id="72" source="n" target="imbricated" weight="0.8210598230361938" />
+      <edge id="73" source="n" target="knopf" weight="0.8127501010894775" />
+      <edge id="74" source="n" target="mrs" weight="0.8075687289237976" />
+      <edge id="75" source="h" target="n" weight="0.999753475189209" />
+      <edge id="76" source="h" target="e" weight="0.9996885657310486" />
+      <edge id="77" source="h" target="f" weight="0.9996840953826904" />
+      <edge id="78" source="h" target="c" weight="0.9996011257171631" />
+      <edge id="79" source="h" target="g" weight="0.9995711445808411" />
+      <edge id="80" source="h" target="r" weight="0.9989479780197144" />
+      <edge id="81" source="h" target="l" weight="0.9978519082069397" />
+      <edge id="82" source="h" target="ta" weight="0.9960165023803711" />
+      <edge id="83" source="h" target="u" weight="0.9931761026382446" />
+      <edge id="84" source="h" target="v" weight="0.9627231955528259" />
+      <edge id="85" source="h" target="p" weight="0.9552783370018005" />
+      <edge id="86" source="h" target="b" weight="0.947108268737793" />
+      <edge id="87" source="h" target="sturtevant" weight="0.9265426397323608" />
+      <edge id="88" source="h" target="w" weight="0.9243183732032776" />
+      <edge id="89" source="h" target="x" weight="0.8797154426574707" />
+      <edge id="90" source="h" target="lexington" weight="0.8668627738952637" />
+      <edge id="91" source="h" target="kenneth" weight="0.8413997888565063" />
+      <edge id="92" source="h" target="lowman" weight="0.8407547473907471" />
+      <edge id="93" source="h" target="harold" weight="0.8294609785079956" />
+      <edge id="94" source="h" target="jonathan" weight="0.828227162361145" />
+      <edge id="95" source="h" target="beginnings" weight="0.8280354142189026" />
+      <edge id="96" source="h" target="vol" weight="0.8152087926864624" />
+      <edge id="97" source="h" target="imbricated" weight="0.8095998764038086" />
+      <edge id="98" source="h" target="knopf" weight="0.8011085987091064" />
+      <edge id="99" source="h" target="mrs" weight="0.7952182292938232" />
+      <edge id="100" source="seattle" target="meanwhile" weight="0.9998818635940552" />
+      <edge id="101" source="seattle" target="historical" weight="0.9998695254325867" />
+      <edge id="102" source="seattle" target="family" weight="0.9998689889907837" />
+      <edge id="103" source="seattle" target="water" weight="0.9998618364334106" />
+      <edge id="104" source="seattle" target="lawton" weight="0.9998611807823181" />
+      <edge id="105" source="seattle" target="day" weight="0.9998610615730286" />
+      <edge id="106" source="seattle" target="fort" weight="0.9998596906661987" />
+      <edge id="107" source="seattle" target="several" weight="0.9998593926429749" />
+      <edge id="108" source="seattle" target="area" weight="0.9998483657836914" />
+      <edge id="109" source="seattle" target="march" weight="0.9998481869697571" />
+      <edge id="110" source="seattle" target="foot" weight="0.9998424053192139" />
+      <edge id="111" source="seattle" target="times" weight="0.9998421669006348" />
+      <edge id="112" source="seattle" target="harrington" weight="0.9998418688774109" />
+      <edge id="113" source="seattle" target="recalled" weight="0.9998322129249573" />
+      <edge id="114" source="seattle" target="may" weight="0.9998316764831543" />
+      <edge id="115" source="seattle" target="mary" weight="0.9998314380645752" />
+      <edge id="116" source="seattle" target="shop" weight="0.9998289942741394" />
+      <edge id="117" source="seattle" target="streets" weight="0.9998276829719543" />
+      <edge id="118" source="seattle" target="american" weight="0.999825119972229" />
+      <edge id="119" source="seattle" target="go" weight="0.999825119972229" />
+      <edge id="120" source="seattle" target="county" weight="0.9998195171356201" />
+      <edge id="121" source="seattle" target="tion" weight="0.9998180866241455" />
+      <edge id="122" source="seattle" target="village" weight="0.9998157620429993" />
+      <edge id="123" source="seattle" target="cedar" weight="0.9998148679733276" />
+      <edge id="124" source="seattle" target="tlingit" weight="0.9998081922531128" />
+      <edge id="125" source="c" target="g" weight="0.9999572038650513" />
+      <edge id="126" source="c" target="e" weight="0.9999462366104126" />
+      <edge id="127" source="c" target="n" weight="0.9999437928199768" />
+      <edge id="128" source="c" target="f" weight="0.9999140501022339" />
+      <edge id="129" source="c" target="r" weight="0.9997694492340088" />
+      <edge id="130" source="c" target="h" weight="0.9996011257171631" />
+      <edge id="131" source="c" target="l" weight="0.9991999864578247" />
+      <edge id="132" source="c" target="ta" weight="0.9974051713943481" />
+      <edge id="133" source="c" target="u" weight="0.9958968758583069" />
+      <edge id="134" source="c" target="v" weight="0.9694263935089111" />
+      <edge id="135" source="c" target="p" weight="0.9626983404159546" />
+      <edge id="136" source="c" target="b" weight="0.9551801085472107" />
+      <edge id="137" source="c" target="sturtevant" weight="0.9358580112457275" />
+      <edge id="138" source="c" target="w" weight="0.9339798092842102" />
+      <edge id="139" source="c" target="x" weight="0.8918783664703369" />
+      <edge id="140" source="c" target="lexington" weight="0.8793603181838989" />
+      <edge id="141" source="c" target="kenneth" weight="0.8551967144012451" />
+      <edge id="142" source="c" target="lowman" weight="0.8544861078262329" />
+      <edge id="143" source="c" target="harold" weight="0.843635082244873" />
+      <edge id="144" source="c" target="jonathan" weight="0.8423253297805786" />
+      <edge id="145" source="c" target="beginnings" weight="0.8422436118125916" />
+      <edge id="146" source="c" target="vol" weight="0.8300113677978516" />
+      <edge id="147" source="c" target="imbricated" weight="0.8240759968757629" />
+      <edge id="148" source="c" target="knopf" weight="0.8160552382469177" />
+      <edge id="149" source="c" target="mrs" weight="0.8107757568359375" />
+      <edge id="150" source="g" target="c" weight="0.9999572038650513" />
+      <edge id="151" source="g" target="e" weight="0.9999538660049438" />
+      <edge id="152" source="g" target="n" weight="0.9999389052391052" />
+      <edge id="153" source="g" target="f" weight="0.9999194145202637" />
+      <edge id="154" source="g" target="r" weight="0.9998154044151306" />
+      <edge id="155" source="g" target="h" weight="0.9995711445808411" />
+      <edge id="156" source="g" target="l" weight="0.999281644821167" />
+      <edge id="157" source="g" target="ta" weight="0.9975142478942871" />
+      <edge id="158" source="g" target="u" weight="0.9960495233535767" />
+      <edge id="159" source="g" target="v" weight="0.9698600172996521" />
+      <edge id="160" source="g" target="p" weight="0.9631407260894775" />
+      <edge id="161" source="g" target="b" weight="0.9556862115859985" />
+      <edge id="162" source="g" target="sturtevant" weight="0.9364430904388428" />
+      <edge id="163" source="g" target="w" weight="0.9345947504043579" />
+      <edge id="164" source="g" target="x" weight="0.892632246017456" />
+      <edge id="165" source="g" target="lexington" weight="0.8802357912063599" />
+      <edge id="166" source="g" target="kenneth" weight="0.8559436798095703" />
+      <edge id="167" source="g" target="lowman" weight="0.8552819490432739" />
+      <edge id="168" source="g" target="harold" weight="0.8445489406585693" />
+      <edge id="169" source="g" target="jonathan" weight="0.8432228565216064" />
+      <edge id="170" source="g" target="beginnings" weight="0.8432130813598633" />
+      <edge id="171" source="g" target="vol" weight="0.8309715390205383" />
+      <edge id="172" source="g" target="imbricated" weight="0.8251523971557617" />
+      <edge id="173" source="g" target="knopf" weight="0.8168356418609619" />
+      <edge id="174" source="g" target="mrs" weight="0.8117209076881409" />
+      <edge id="175" source="american" target="john" weight="0.9999068975448608" />
+      <edge id="176" source="american" target="may" weight="0.9999068975448608" />
+      <edge id="177" source="american" target="fort" weight="0.9998971223831177" />
+      <edge id="178" source="american" target="alaska" weight="0.9998874068260193" />
+      <edge id="179" source="american" target="david" weight="0.9998602271080017" />
+      <edge id="180" source="american" target="historical" weight="0.9998562335968018" />
+      <edge id="181" source="american" target="mary" weight="0.999850332736969" />
+      <edge id="182" source="american" target="family" weight="0.9998496770858765" />
+      <edge id="183" source="american" target="mercer" weight="0.9998449087142944" />
+      <edge id="184" source="american" target="books" weight="0.9998416900634766" />
+      <edge id="185" source="american" target="seattle" weight="0.9998252391815186" />
+      <edge id="186" source="american" target="williams" weight="0.9998246431350708" />
+      <edge id="187" source="american" target="january" weight="0.9998141527175903" />
+      <edge id="188" source="american" target="daughter" weight="0.9998130202293396" />
+      <edge id="189" source="american" target="line" weight="0.9997977614402771" />
+      <edge id="190" source="american" target="chicago" weight="0.9997962117195129" />
+      <edge id="191" source="american" target="totem" weight="0.9997940063476562" />
+      <edge id="192" source="american" target="shop" weight="0.9997934699058533" />
+      <edge id="193" source="american" target="lawton" weight="0.9997924566268921" />
+      <edge id="194" source="american" target="several" weight="0.9997919797897339" />
+      <edge id="195" source="american" target="meanwhile" weight="0.9997907876968384" />
+      <edge id="196" source="american" target="portland" weight="0.9997836351394653" />
+      <edge id="197" source="american" target="area" weight="0.9997829794883728" />
+      <edge id="198" source="american" target="railroad" weight="0.9997770190238953" />
+      <edge id="199" source="american" target="wa" weight="0.9997755289077759" />
+      <edge id="200" source="indian" target="places" weight="0.999923050403595" />
+      <edge id="201" source="indian" target="local" weight="0.9999216794967651" />
+      <edge id="202" source="indian" target="would" weight="0.9999147057533264" />
+      <edge id="203" source="indian" target="many" weight="0.9999045133590698" />
+      <edge id="204" source="indian" target="place" weight="0.9998729228973389" />
+      <edge id="205" source="indian" target="settlers" weight="0.9998489618301392" />
+      <edge id="206" source="indian" target="duwamish" weight="0.9998161792755127" />
+      <edge id="207" source="indian" target="women" weight="0.9998129606246948" />
+      <edge id="208" source="indian" target="community" weight="0.9998058080673218" />
+      <edge id="209" source="indian" target="fact" weight="0.9997926950454712" />
+      <edge id="210" source="indian" target="urban" weight="0.9997849464416504" />
+      <edge id="211" source="indian" target="river" weight="0.9997820854187012" />
+      <edge id="212" source="indian" target="indigenous" weight="0.9997646808624268" />
+      <edge id="213" source="indian" target="also" weight="0.9997512698173523" />
+      <edge id="214" source="indian" target="part" weight="0.9997508525848389" />
+      <edge id="215" source="indian" target="town" weight="0.9997402429580688" />
+      <edge id="216" source="indian" target="past" weight="0.9997327923774719" />
+      <edge id="217" source="indian" target="known" weight="0.9997287392616272" />
+      <edge id="218" source="indian" target="around" weight="0.9997267127037048" />
+      <edge id="219" source="indian" target="century" weight="0.9997264742851257" />
+      <edge id="220" source="indian" target="stories" weight="0.9997200965881348" />
+      <edge id="221" source="indian" target="white" weight="0.99971604347229" />
+      <edge id="222" source="indian" target="lake" weight="0.9997039437294006" />
+      <edge id="223" source="indian" target="point" weight="0.9997018575668335" />
+      <edge id="224" source="indian" target="kind" weight="0.9996985197067261" />
+      <edge id="225" source="places" target="local" weight="0.999946653842926" />
+      <edge id="226" source="places" target="would" weight="0.9999403953552246" />
+      <edge id="227" source="places" target="many" weight="0.9999386072158813" />
+      <edge id="228" source="places" target="indian" weight="0.9999231696128845" />
+      <edge id="229" source="places" target="settlers" weight="0.9999021291732788" />
+      <edge id="230" source="places" target="place" weight="0.9998860359191895" />
+      <edge id="231" source="places" target="duwamish" weight="0.9998782277107239" />
+      <edge id="232" source="places" target="river" weight="0.9998605251312256" />
+      <edge id="233" source="places" target="community" weight="0.9998553991317749" />
+      <edge id="234" source="places" target="urban" weight="0.9998462200164795" />
+      <edge id="235" source="places" target="fact" weight="0.9998389482498169" />
+      <edge id="236" source="places" target="known" weight="0.9998340606689453" />
+      <edge id="237" source="places" target="indigenous" weight="0.9998313784599304" />
+      <edge id="238" source="places" target="part" weight="0.999819278717041" />
+      <edge id="239" source="places" target="around" weight="0.9998174905776978" />
+      <edge id="240" source="places" target="also" weight="0.9998173117637634" />
+      <edge id="241" source="places" target="past" weight="0.9998136758804321" />
+      <edge id="242" source="places" target="town" weight="0.9998108148574829" />
+      <edge id="243" source="places" target="white" weight="0.9998015761375427" />
+      <edge id="244" source="places" target="century" weight="0.9997857809066772" />
+      <edge id="245" source="places" target="point" weight="0.9997857809066772" />
+      <edge id="246" source="places" target="become" weight="0.9997690916061401" />
+      <edge id="247" source="places" target="lake" weight="0.9997638463973999" />
+      <edge id="248" source="places" target="city" weight="0.9997615218162537" />
+      <edge id="249" source="places" target="women" weight="0.9997600317001343" />
+      <edge id="250" source="local" target="places" weight="0.999946653842926" />
+      <edge id="251" source="local" target="would" weight="0.9999464750289917" />
+      <edge id="252" source="local" target="many" weight="0.9999444484710693" />
+      <edge id="253" source="local" target="indian" weight="0.9999217391014099" />
+      <edge id="254" source="local" target="settlers" weight="0.9999088048934937" />
+      <edge id="255" source="local" target="duwamish" weight="0.9998979568481445" />
+      <edge id="256" source="local" target="community" weight="0.9998893737792969" />
+      <edge id="257" source="local" target="urban" weight="0.9998805522918701" />
+      <edge id="258" source="local" target="place" weight="0.9998753070831299" />
+      <edge id="259" source="local" target="fact" weight="0.999872088432312" />
+      <edge id="260" source="local" target="river" weight="0.9998713135719299" />
+      <edge id="261" source="local" target="also" weight="0.9998635053634644" />
+      <edge id="262" source="local" target="part" weight="0.9998551607131958" />
+      <edge id="263" source="local" target="indigenous" weight="0.9998514652252197" />
+      <edge id="264" source="local" target="known" weight="0.999844491481781" />
+      <edge id="265" source="local" target="past" weight="0.9998414516448975" />
+      <edge id="266" source="local" target="white" weight="0.9998396635055542" />
+      <edge id="267" source="local" target="town" weight="0.999836802482605" />
+      <edge id="268" source="local" target="around" weight="0.9998277425765991" />
+      <edge id="269" source="local" target="century" weight="0.9998257756233215" />
+      <edge id="270" source="local" target="city" weight="0.9998156428337097" />
+      <edge id="271" source="local" target="become" weight="0.9998063445091248" />
+      <edge id="272" source="local" target="made" weight="0.9998052716255188" />
+      <edge id="273" source="local" target="point" weight="0.9998021125793457" />
+      <edge id="274" source="local" target="kind" weight="0.9997869729995728" />
+      <edge id="275" source="place" target="places" weight="0.9998859167098999" />
+      <edge id="276" source="place" target="would" weight="0.9998751878738403" />
+      <edge id="277" source="place" target="local" weight="0.9998750686645508" />
+      <edge id="278" source="place" target="many" weight="0.9998747706413269" />
+      <edge id="279" source="place" target="indian" weight="0.9998729228973389" />
+      <edge id="280" source="place" target="settlers" weight="0.9998230934143066" />
+      <edge id="281" source="place" target="stories" weight="0.9997951984405518" />
+      <edge id="282" source="place" target="women" weight="0.9997912645339966" />
+      <edge id="283" source="place" target="duwamish" weight="0.9997588396072388" />
+      <edge id="284" source="place" target="river" weight="0.9997448921203613" />
+      <edge id="285" source="place" target="lake" weight="0.99973464012146" />
+      <edge id="286" source="place" target="community" weight="0.9997283220291138" />
+      <edge id="287" source="place" target="crossing" weight="0.9997211694717407" />
+      <edge id="288" source="place" target="fact" weight="0.999717652797699" />
+      <edge id="289" source="place" target="native" weight="0.9997155666351318" />
+      <edge id="290" source="place" target="urban" weight="0.9997017979621887" />
+      <edge id="291" source="place" target="century" weight="0.9996848106384277" />
+      <edge id="292" source="place" target="indigenous" weight="0.9996827840805054" />
+      <edge id="293" source="place" target="around" weight="0.9996719360351562" />
+      <edge id="294" source="place" target="known" weight="0.9996700882911682" />
+      <edge id="295" source="place" target="also" weight="0.999669075012207" />
+      <edge id="296" source="place" target="imagery" weight="0.9996684789657593" />
+      <edge id="297" source="place" target="point" weight="0.9996667504310608" />
+      <edge id="298" source="place" target="people" weight="0.999658465385437" />
+      <edge id="299" source="place" target="part" weight="0.9996549487113953" />
+      <edge id="300" source="duwamish" target="river" weight="0.999941349029541" />
+      <edge id="301" source="duwamish" target="fact" weight="0.9999257326126099" />
+      <edge id="302" source="duwamish" target="also" weight="0.9999245405197144" />
+      <edge id="303" source="duwamish" target="town" weight="0.9999226927757263" />
+      <edge id="304" source="duwamish" target="part" weight="0.9999175071716309" />
+      <edge id="305" source="duwamish" target="around" weight="0.9999148845672607" />
+      <edge id="306" source="duwamish" target="known" weight="0.9999144077301025" />
+      <edge id="307" source="duwamish" target="community" weight="0.9999129772186279" />
+      <edge id="308" source="duwamish" target="indigenous" weight="0.9999104738235474" />
+      <edge id="309" source="duwamish" target="urban" weight="0.9999103546142578" />
+      <edge id="310" source="duwamish" target="white" weight="0.9999089241027832" />
+      <edge id="311" source="duwamish" target="point" weight="0.9999068975448608" />
+      <edge id="312" source="duwamish" target="would" weight="0.9999067783355713" />
+      <edge id="313" source="duwamish" target="settlers" weight="0.9999061822891235" />
+      <edge id="314" source="duwamish" target="many" weight="0.9998999834060669" />
+      <edge id="315" source="duwamish" target="city" weight="0.9998997449874878" />
+      <edge id="316" source="duwamish" target="past" weight="0.9998984336853027" />
+      <edge id="317" source="duwamish" target="local" weight="0.9998980164527893" />
+      <edge id="318" source="duwamish" target="made" weight="0.9998908638954163" />
+      <edge id="319" source="duwamish" target="even" weight="0.9998886585235596" />
+      <edge id="320" source="duwamish" target="become" weight="0.9998883008956909" />
+      <edge id="321" source="duwamish" target="places" weight="0.9998782873153687" />
+      <edge id="322" source="duwamish" target="lived" weight="0.9998648166656494" />
+      <edge id="323" source="duwamish" target="home" weight="0.9998645782470703" />
+      <edge id="324" source="duwamish" target="residents" weight="0.9998488426208496" />
+      <edge id="325" source="women" target="native" weight="0.9998226761817932" />
+      <edge id="326" source="women" target="indian" weight="0.9998131990432739" />
+      <edge id="327" source="women" target="stories" weight="0.9998018145561218" />
+      <edge id="328" source="women" target="people" weight="0.999795138835907" />
+      <edge id="329" source="women" target="place" weight="0.9997915029525757" />
+      <edge id="330" source="women" target="places" weight="0.999760091304779" />
+      <edge id="331" source="women" target="many" weight="0.9997283220291138" />
+      <edge id="332" source="women" target="would" weight="0.9997142553329468" />
+      <edge id="333" source="women" target="local" weight="0.99970942735672" />
+      <edge id="334" source="women" target="crossing" weight="0.9996286630630493" />
+      <edge id="335" source="women" target="settlers" weight="0.9996098875999451" />
+      <edge id="336" source="women" target="lake" weight="0.9995539784431458" />
+      <edge id="337" source="women" target="duwamish" weight="0.9995289444923401" />
+      <edge id="338" source="women" target="river" weight="0.9995094537734985" />
+      <edge id="339" source="women" target="community" weight="0.9994955062866211" />
+      <edge id="340" source="women" target="fact" weight="0.9994820356369019" />
+      <edge id="341" source="women" target="twentieth" weight="0.9994814395904541" />
+      <edge id="342" source="women" target="imagery" weight="0.9994581937789917" />
+      <edge id="343" source="women" target="urban" weight="0.9994329214096069" />
+      <edge id="344" source="women" target="indigenous" weight="0.9994125366210938" />
+      <edge id="345" source="women" target="known" weight="0.9994013905525208" />
+      <edge id="346" source="women" target="non" weight="0.999397873878479" />
+      <edge id="347" source="women" target="part" weight="0.9993956685066223" />
+      <edge id="348" source="women" target="also" weight="0.9993874430656433" />
+      <edge id="349" source="women" target="tell" weight="0.9993869066238403" />
+      <edge id="350" source="urban" target="also" weight="0.9999480247497559" />
+      <edge id="351" source="urban" target="town" weight="0.9999473094940186" />
+      <edge id="352" source="urban" target="past" weight="0.9999416470527649" />
+      <edge id="353" source="urban" target="city" weight="0.9999386072158813" />
+      <edge id="354" source="urban" target="indigenous" weight="0.9999252557754517" />
+      <edge id="355" source="urban" target="part" weight="0.9999235272407532" />
+      <edge id="356" source="urban" target="fact" weight="0.9999229311943054" />
+      <edge id="357" source="urban" target="made" weight="0.9999160766601562" />
+      <edge id="358" source="urban" target="white" weight="0.9999150037765503" />
+      <edge id="359" source="urban" target="duwamish" weight="0.9999103546142578" />
+      <edge id="360" source="urban" target="even" weight="0.9999083876609802" />
+      <edge id="361" source="urban" target="around" weight="0.9999061226844788" />
+      <edge id="362" source="urban" target="point" weight="0.9998992085456848" />
+      <edge id="363" source="urban" target="river" weight="0.9998980164527893" />
+      <edge id="364" source="urban" target="community" weight="0.9998956918716431" />
+      <edge id="365" source="urban" target="become" weight="0.999894380569458" />
+      <edge id="366" source="urban" target="lived" weight="0.9998932480812073" />
+      <edge id="367" source="urban" target="home" weight="0.9998898506164551" />
+      <edge id="368" source="urban" target="known" weight="0.9998885989189148" />
+      <edge id="369" source="urban" target="well" weight="0.9998841881752014" />
+      <edge id="370" source="urban" target="local" weight="0.9998805522918701" />
+      <edge id="371" source="urban" target="residents" weight="0.9998801946640015" />
+      <edge id="372" source="urban" target="settlers" weight="0.9998788237571716" />
+      <edge id="373" source="urban" target="century" weight="0.9998783469200134" />
+      <edge id="374" source="urban" target="little" weight="0.9998754858970642" />
+      <edge id="375" source="river" target="duwamish" weight="0.9999411702156067" />
+      <edge id="376" source="river" target="known" weight="0.9999215006828308" />
+      <edge id="377" source="river" target="town" weight="0.9999210834503174" />
+      <edge id="378" source="river" target="fact" weight="0.9999120235443115" />
+      <edge id="379" source="river" target="indigenous" weight="0.9999067783355713" />
+      <edge id="380" source="river" target="part" weight="0.9998987913131714" />
+      <edge id="381" source="river" target="around" weight="0.9998979568481445" />
+      <edge id="382" source="river" target="urban" weight="0.9998979568481445" />
+      <edge id="383" source="river" target="also" weight="0.9998932480812073" />
+      <edge id="384" source="river" target="settlers" weight="0.9998918771743774" />
+      <edge id="385" source="river" target="point" weight="0.9998911619186401" />
+      <edge id="386" source="river" target="community" weight="0.9998907446861267" />
+      <edge id="387" source="river" target="white" weight="0.9998905062675476" />
+      <edge id="388" source="river" target="would" weight="0.9998899698257446" />
+      <edge id="389" source="river" target="many" weight="0.9998881816864014" />
+      <edge id="390" source="river" target="city" weight="0.9998862743377686" />
+      <edge id="391" source="river" target="past" weight="0.9998821020126343" />
+      <edge id="392" source="river" target="made" weight="0.9998805522918701" />
+      <edge id="393" source="river" target="local" weight="0.9998712539672852" />
+      <edge id="394" source="river" target="even" weight="0.9998661279678345" />
+      <edge id="395" source="river" target="become" weight="0.9998626112937927" />
+      <edge id="396" source="river" target="places" weight="0.9998604655265808" />
+      <edge id="397" source="river" target="little" weight="0.9998472929000854" />
+      <edge id="398" source="river" target="home" weight="0.9998442530632019" />
+      <edge id="399" source="river" target="century" weight="0.9998408555984497" />
+      <edge id="400" source="indigenous" target="town" weight="0.9999357461929321" />
+      <edge id="401" source="indigenous" target="urban" weight="0.9999252557754517" />
+      <edge id="402" source="indigenous" target="also" weight="0.9999204277992249" />
+      <edge id="403" source="indigenous" target="made" weight="0.99991774559021" />
+      <edge id="404" source="indigenous" target="around" weight="0.9999118447303772" />
+      <edge id="405" source="indigenous" target="duwamish" weight="0.9999104142189026" />
+      <edge id="406" source="indigenous" target="city" weight="0.9999096989631653" />
+      <edge id="407" source="indigenous" target="part" weight="0.9999091029167175" />
+      <edge id="408" source="indigenous" target="river" weight="0.9999068379402161" />
+      <edge id="409" source="indigenous" target="become" weight="0.9999046325683594" />
+      <edge id="410" source="indigenous" target="past" weight="0.9999033212661743" />
+      <edge id="411" source="indigenous" target="even" weight="0.9999024868011475" />
+      <edge id="412" source="indigenous" target="known" weight="0.9998993873596191" />
+      <edge id="413" source="indigenous" target="home" weight="0.9998916387557983" />
+      <edge id="414" source="indigenous" target="white" weight="0.9998911619186401" />
+      <edge id="415" source="indigenous" target="point" weight="0.9998910427093506" />
+      <edge id="416" source="indigenous" target="lived" weight="0.9998869299888611" />
+      <edge id="417" source="indigenous" target="settlers" weight="0.9998786449432373" />
+      <edge id="418" source="indigenous" target="fact" weight="0.9998782277107239" />
+      <edge id="419" source="indigenous" target="community" weight="0.9998749494552612" />
+      <edge id="420" source="indigenous" target="little" weight="0.9998738765716553" />
+      <edge id="421" source="indigenous" target="century" weight="0.9998728036880493" />
+      <edge id="422" source="indigenous" target="living" weight="0.999863862991333" />
+      <edge id="423" source="indigenous" target="residents" weight="0.9998629093170166" />
+      <edge id="424" source="indigenous" target="many" weight="0.9998587369918823" />
+      <edge id="425" source="town" target="city" weight="0.9999576807022095" />
+      <edge id="426" source="town" target="part" weight="0.9999551177024841" />
+      <edge id="427" source="town" target="white" weight="0.9999476075172424" />
+      <edge id="428" source="town" target="urban" weight="0.9999473094940186" />
+      <edge id="429" source="town" target="made" weight="0.99994295835495" />
+      <edge id="430" source="town" target="even" weight="0.99993896484375" />
+      <edge id="431" source="town" target="past" weight="0.9999380707740784" />
+      <edge id="432" source="town" target="home" weight="0.9999371767044067" />
+      <edge id="433" source="town" target="also" weight="0.9999370574951172" />
+      <edge id="434" source="town" target="indigenous" weight="0.9999357461929321" />
+      <edge id="435" source="town" target="around" weight="0.9999338388442993" />
+      <edge id="436" source="town" target="lived" weight="0.9999337792396545" />
+      <edge id="437" source="town" target="known" weight="0.9999253153800964" />
+      <edge id="438" source="town" target="residents" weight="0.9999241828918457" />
+      <edge id="439" source="town" target="point" weight="0.9999233484268188" />
+      <edge id="440" source="town" target="little" weight="0.9999228119850159" />
+      <edge id="441" source="town" target="duwamish" weight="0.9999226331710815" />
+      <edge id="442" source="town" target="river" weight="0.9999212026596069" />
+      <edge id="443" source="town" target="fact" weight="0.9999212026596069" />
+      <edge id="444" source="town" target="well" weight="0.9999154806137085" />
+      <edge id="445" source="town" target="become" weight="0.9999139308929443" />
+      <edge id="446" source="town" target="living" weight="0.9999107718467712" />
+      <edge id="447" source="town" target="found" weight="0.9999045133590698" />
+      <edge id="448" source="town" target="like" weight="0.9999028444290161" />
+      <edge id="449" source="town" target="community" weight="0.9999018311500549" />
+      <edge id="450" source="past" target="urban" weight="0.9999416470527649" />
+      <edge id="451" source="past" target="town" weight="0.9999380707740784" />
+      <edge id="452" source="past" target="city" weight="0.9999350905418396" />
+      <edge id="453" source="past" target="part" weight="0.9999294877052307" />
+      <edge id="454" source="past" target="also" weight="0.9999284148216248" />
+      <edge id="455" source="past" target="made" weight="0.9999217391014099" />
+      <edge id="456" source="past" target="residents" weight="0.9999172687530518" />
+      <edge id="457" source="past" target="white" weight="0.9999154210090637" />
+      <edge id="458" source="past" target="fact" weight="0.9999122023582458" />
+      <edge id="459" source="past" target="become" weight="0.9999121427536011" />
+      <edge id="460" source="past" target="even" weight="0.9999116063117981" />
+      <edge id="461" source="past" target="community" weight="0.9999045133590698" />
+      <edge id="462" source="past" target="indigenous" weight="0.9999033212661743" />
+      <edge id="463" source="past" target="known" weight="0.999902606010437" />
+      <edge id="464" source="past" target="home" weight="0.9999023079872131" />
+      <edge id="465" source="past" target="point" weight="0.9999013543128967" />
+      <edge id="466" source="past" target="duwamish" weight="0.999898374080658" />
+      <edge id="467" source="past" target="around" weight="0.9998961091041565" />
+      <edge id="468" source="past" target="like" weight="0.9998916983604431" />
+      <edge id="469" source="past" target="well" weight="0.999890923500061" />
+      <edge id="470" source="past" target="lived" weight="0.9998899102210999" />
+      <edge id="471" source="past" target="little" weight="0.99988853931427" />
+      <edge id="472" source="past" target="found" weight="0.9998829364776611" />
+      <edge id="473" source="past" target="river" weight="0.999882161617279" />
+      <edge id="474" source="past" target="far" weight="0.9998745322227478" />
+      <edge id="475" source="around" target="town" weight="0.9999338388442993" />
+      <edge id="476" source="around" target="known" weight="0.9999231696128845" />
+      <edge id="477" source="around" target="duwamish" weight="0.9999148845672607" />
+      <edge id="478" source="around" target="indigenous" weight="0.9999118447303772" />
+      <edge id="479" source="around" target="part" weight="0.9999112486839294" />
+      <edge id="480" source="around" target="urban" weight="0.9999061226844788" />
+      <edge id="481" source="around" target="point" weight="0.9999049305915833" />
+      <edge id="482" source="around" target="also" weight="0.9999018907546997" />
+      <edge id="483" source="around" target="home" weight="0.9998997449874878" />
+      <edge id="484" source="around" target="white" weight="0.9998989105224609" />
+      <edge id="485" source="around" target="river" weight="0.9998980164527893" />
+      <edge id="486" source="around" target="city" weight="0.9998977780342102" />
+      <edge id="487" source="around" target="made" weight="0.9998974800109863" />
+      <edge id="488" source="around" target="past" weight="0.9998961091041565" />
+      <edge id="489" source="around" target="fact" weight="0.9998959898948669" />
+      <edge id="490" source="around" target="even" weight="0.999890923500061" />
+      <edge id="491" source="around" target="development" weight="0.9998791217803955" />
+      <edge id="492" source="around" target="settlers" weight="0.9998791217803955" />
+      <edge id="493" source="around" target="lived" weight="0.9998756051063538" />
+      <edge id="494" source="around" target="little" weight="0.9998741149902344" />
+      <edge id="495" source="around" target="far" weight="0.9998729228973389" />
+      <edge id="496" source="around" target="residents" weight="0.9998722076416016" />
+      <edge id="497" source="around" target="become" weight="0.9998705983161926" />
+      <edge id="498" source="around" target="living" weight="0.9998673796653748" />
+      <edge id="499" source="around" target="like" weight="0.9998635053634644" />
+      <edge id="500" source="stories" target="native" weight="0.9998783469200134" />
+      <edge id="501" source="stories" target="people" weight="0.9998366236686707" />
+      <edge id="502" source="stories" target="women" weight="0.9998018145561218" />
+      <edge id="503" source="stories" target="place" weight="0.9997954368591309" />
+      <edge id="504" source="stories" target="crossing" weight="0.9997336864471436" />
+      <edge id="505" source="stories" target="indian" weight="0.9997202754020691" />
+      <edge id="506" source="stories" target="places" weight="0.9996802806854248" />
+      <edge id="507" source="stories" target="local" weight="0.9996315240859985" />
+      <edge id="508" source="stories" target="many" weight="0.9996219277381897" />
+      <edge id="509" source="stories" target="would" weight="0.9996123909950256" />
+      <edge id="510" source="stories" target="lake" weight="0.9995948076248169" />
+      <edge id="511" source="stories" target="settlers" weight="0.9995243549346924" />
+      <edge id="512" source="stories" target="imagery" weight="0.9995049834251404" />
+      <edge id="513" source="stories" target="twentieth" weight="0.999423086643219" />
+      <edge id="514" source="stories" target="duwamish" weight="0.9993762969970703" />
+      <edge id="515" source="stories" target="immediately" weight="0.999358057975769" />
+      <edge id="516" source="stories" target="non" weight="0.9993550777435303" />
+      <edge id="517" source="stories" target="river" weight="0.9993466138839722" />
+      <edge id="518" source="stories" target="community" weight="0.9993366003036499" />
+      <edge id="519" source="stories" target="fact" weight="0.999316394329071" />
+      <edge id="520" source="stories" target="century" weight="0.9992994666099548" />
+      <edge id="521" source="stories" target="urban" weight="0.9992878437042236" />
+      <edge id="522" source="stories" target="indigenous" weight="0.9992586970329285" />
+      <edge id="523" source="stories" target="known" weight="0.9992579221725464" />
+      <edge id="524" source="stories" target="experiences" weight="0.9992458820343018" />
+      <edge id="525" source="white" target="town" weight="0.9999476075172424" />
+      <edge id="526" source="white" target="city" weight="0.9999395608901978" />
+      <edge id="527" source="white" target="also" weight="0.999937117099762" />
+      <edge id="528" source="white" target="even" weight="0.9999362826347351" />
+      <edge id="529" source="white" target="made" weight="0.9999358057975769" />
+      <edge id="530" source="white" target="part" weight="0.9999281764030457" />
+      <edge id="531" source="white" target="home" weight="0.9999175071716309" />
+      <edge id="532" source="white" target="past" weight="0.9999154210090637" />
+      <edge id="533" source="white" target="urban" weight="0.9999150037765503" />
+      <edge id="534" source="white" target="little" weight="0.9999116063117981" />
+      <edge id="535" source="white" target="duwamish" weight="0.9999088644981384" />
+      <edge id="536" source="white" target="fact" weight="0.9999082684516907" />
+      <edge id="537" source="white" target="living" weight="0.9999068975448608" />
+      <edge id="538" source="white" target="lived" weight="0.9999041557312012" />
+      <edge id="539" source="white" target="become" weight="0.9999018907546997" />
+      <edge id="540" source="white" target="around" weight="0.9998989105224609" />
+      <edge id="541" source="white" target="known" weight="0.9998975396156311" />
+      <edge id="542" source="white" target="residents" weight="0.9998945593833923" />
+      <edge id="543" source="white" target="indigenous" weight="0.9998911619186401" />
+      <edge id="544" source="white" target="river" weight="0.9998905658721924" />
+      <edge id="545" source="white" target="found" weight="0.9998899698257446" />
+      <edge id="546" source="white" target="well" weight="0.9998880624771118" />
+      <edge id="547" source="white" target="like" weight="0.9998868703842163" />
+      <edge id="548" source="white" target="community" weight="0.9998844265937805" />
+      <edge id="549" source="white" target="landscape" weight="0.9998812079429626" />
+      <edge id="550" source="lake" target="places" weight="0.9997638463973999" />
+      <edge id="551" source="lake" target="many" weight="0.9997501373291016" />
+      <edge id="552" source="lake" target="place" weight="0.9997347593307495" />
+      <edge id="553" source="lake" target="would" weight="0.9997345209121704" />
+      <edge id="554" source="lake" target="local" weight="0.9997040033340454" />
+      <edge id="555" source="lake" target="indian" weight="0.9997040033340454" />
+      <edge id="556" source="lake" target="settlers" weight="0.9996875524520874" />
+      <edge id="557" source="lake" target="river" weight="0.9996456503868103" />
+      <edge id="558" source="lake" target="duwamish" weight="0.9996423721313477" />
+      <edge id="559" source="lake" target="around" weight="0.9996370077133179" />
+      <edge id="560" source="lake" target="known" weight="0.9996249079704285" />
+      <edge id="561" source="lake" target="fact" weight="0.9996209740638733" />
+      <edge id="562" source="lake" target="indigenous" weight="0.9996163249015808" />
+      <edge id="563" source="lake" target="century" weight="0.9995967149734497" />
+      <edge id="564" source="lake" target="stories" weight="0.9995946288108826" />
+      <edge id="565" source="lake" target="urban" weight="0.9995849132537842" />
+      <edge id="566" source="lake" target="imagery" weight="0.9995648860931396" />
+      <edge id="567" source="lake" target="town" weight="0.9995566606521606" />
+      <edge id="568" source="lake" target="twentieth" weight="0.9995561838150024" />
+      <edge id="569" source="lake" target="development" weight="0.9995549917221069" />
+      <edge id="570" source="lake" target="women" weight="0.9995538592338562" />
+      <edge id="571" source="lake" target="part" weight="0.9995461702346802" />
+      <edge id="572" source="lake" target="community" weight="0.99953693151474" />
+      <edge id="573" source="lake" target="also" weight="0.9995335340499878" />
+      <edge id="574" source="lake" target="past" weight="0.9995330572128296" />
+      <edge id="575" source="point" target="town" weight="0.9999233484268188" />
+      <edge id="576" source="point" target="known" weight="0.9999083280563354" />
+      <edge id="577" source="point" target="duwamish" weight="0.9999068975448608" />
+      <edge id="578" source="point" target="around" weight="0.999904990196228" />
+      <edge id="579" source="point" target="also" weight="0.9999043941497803" />
+      <edge id="580" source="point" target="past" weight="0.9999013543128967" />
+      <edge id="581" source="point" target="urban" weight="0.9998992681503296" />
+      <edge id="582" source="point" target="city" weight="0.9998988509178162" />
+      <edge id="583" source="point" target="part" weight="0.9998946189880371" />
+      <edge id="584" source="point" target="river" weight="0.9998912811279297" />
+      <edge id="585" source="point" target="indigenous" weight="0.9998910427093506" />
+      <edge id="586" source="point" target="fact" weight="0.9998879432678223" />
+      <edge id="587" source="point" target="made" weight="0.999881386756897" />
+      <edge id="588" source="point" target="white" weight="0.9998760223388672" />
+      <edge id="589" source="point" target="home" weight="0.999875545501709" />
+      <edge id="590" source="point" target="even" weight="0.9998751878738403" />
+      <edge id="591" source="point" target="lived" weight="0.9998739957809448" />
+      <edge id="592" source="point" target="living" weight="0.9998722672462463" />
+      <edge id="593" source="point" target="residents" weight="0.9998704791069031" />
+      <edge id="594" source="point" target="little" weight="0.9998695850372314" />
+      <edge id="595" source="point" target="become" weight="0.9998657703399658" />
+      <edge id="596" source="point" target="settlers" weight="0.9998599290847778" />
+      <edge id="597" source="point" target="community" weight="0.9998575448989868" />
+      <edge id="598" source="point" target="well" weight="0.9998480677604675" />
+      <edge id="599" source="point" target="would" weight="0.9998466372489929" />
+      <edge id="600" source="people" target="native" weight="0.999910295009613" />
+      <edge id="601" source="people" target="stories" weight="0.9998364448547363" />
+      <edge id="602" source="people" target="women" weight="0.9997949600219727" />
+      <edge id="603" source="people" target="place" weight="0.9996585249900818" />
+      <edge id="604" source="people" target="crossing" weight="0.9995989203453064" />
+      <edge id="605" source="people" target="indian" weight="0.9995951652526855" />
+      <edge id="606" source="people" target="places" weight="0.9995481371879578" />
+      <edge id="607" source="people" target="many" weight="0.999494194984436" />
+      <edge id="608" source="people" target="would" weight="0.9994683265686035" />
+      <edge id="609" source="people" target="local" weight="0.9994634985923767" />
+      <edge id="610" source="people" target="lake" weight="0.9994502663612366" />
+      <edge id="611" source="people" target="imagery" weight="0.999358057975769" />
+      <edge id="612" source="people" target="settlers" weight="0.9993489384651184" />
+      <edge id="613" source="people" target="twentieth" weight="0.9992730617523193" />
+      <edge id="614" source="people" target="immediately" weight="0.9992327690124512" />
+      <edge id="615" source="people" target="duwamish" weight="0.9991873502731323" />
+      <edge id="616" source="people" target="river" weight="0.9991593360900879" />
+      <edge id="617" source="people" target="ghost" weight="0.9991545677185059" />
+      <edge id="618" source="people" target="community" weight="0.9991349577903748" />
+      <edge id="619" source="people" target="fact" weight="0.9991287589073181" />
+      <edge id="620" source="people" target="non" weight="0.9991007447242737" />
+      <edge id="621" source="people" target="experiences" weight="0.9990588426589966" />
+      <edge id="622" source="people" target="urban" weight="0.9990564584732056" />
+      <edge id="623" source="people" target="century" weight="0.9990516901016235" />
+      <edge id="624" source="people" target="indigenous" weight="0.9990485906600952" />
+      <edge id="625" source="native" target="people" weight="0.9999104142189026" />
+      <edge id="626" source="native" target="stories" weight="0.9998782277107239" />
+      <edge id="627" source="native" target="women" weight="0.9998226165771484" />
+      <edge id="628" source="native" target="place" weight="0.9997158050537109" />
+      <edge id="629" source="native" target="indian" weight="0.9996850490570068" />
+      <edge id="630" source="native" target="places" weight="0.9996163249015808" />
+      <edge id="631" source="native" target="crossing" weight="0.9995728731155396" />
+      <edge id="632" source="native" target="many" weight="0.9995423555374146" />
+      <edge id="633" source="native" target="would" weight="0.9995418787002563" />
+      <edge id="634" source="native" target="local" weight="0.9995341897010803" />
+      <edge id="635" source="native" target="lake" weight="0.9995267987251282" />
+      <edge id="636" source="native" target="settlers" weight="0.9994198083877563" />
+      <edge id="637" source="native" target="imagery" weight="0.9994028806686401" />
+      <edge id="638" source="native" target="twentieth" weight="0.9993294477462769" />
+      <edge id="639" source="native" target="duwamish" weight="0.999287486076355" />
+      <edge id="640" source="native" target="immediately" weight="0.9992778301239014" />
+      <edge id="641" source="native" target="river" weight="0.9992460012435913" />
+      <edge id="642" source="native" target="community" weight="0.9992151260375977" />
+      <edge id="643" source="native" target="fact" weight="0.9992089867591858" />
+      <edge id="644" source="native" target="non" weight="0.9991969466209412" />
+      <edge id="645" source="native" target="indigenous" weight="0.9991594552993774" />
+      <edge id="646" source="native" target="century" weight="0.9991569519042969" />
+      <edge id="647" source="native" target="urban" weight="0.9991477131843567" />
+      <edge id="648" source="native" target="ghost" weight="0.9991471767425537" />
+      <edge id="649" source="native" target="known" weight="0.9991167783737183" />
+      <edge id="650" source="little" target="home" weight="0.9999394416809082" />
+      <edge id="651" source="little" target="city" weight="0.9999383687973022" />
+      <edge id="652" source="little" target="like" weight="0.9999313950538635" />
+      <edge id="653" source="little" target="made" weight="0.9999289512634277" />
+      <edge id="654" source="little" target="time" weight="0.9999260902404785" />
+      <edge id="655" source="little" target="town" weight="0.9999228715896606" />
+      <edge id="656" source="little" target="even" weight="0.9999228715896606" />
+      <edge id="657" source="little" target="found" weight="0.9999194145202637" />
+      <edge id="658" source="little" target="called" weight="0.9999182224273682" />
+      <edge id="659" source="little" target="living" weight="0.9999175071716309" />
+      <edge id="660" source="little" target="two" weight="0.9999167919158936" />
+      <edge id="661" source="little" target="landscape" weight="0.9999121427536011" />
+      <edge id="662" source="little" target="white" weight="0.9999117851257324" />
+      <edge id="663" source="little" target="house" weight="0.9999094605445862" />
+      <edge id="664" source="little" target="ways" weight="0.9999092221260071" />
+      <edge id="665" source="little" target="west" weight="0.9999076128005981" />
+      <edge id="666" source="little" target="well" weight="0.9999059438705444" />
+      <edge id="667" source="little" target="lived" weight="0.9999037981033325" />
+      <edge id="668" source="little" target="residents" weight="0.9999035596847534" />
+      <edge id="669" source="little" target="along" weight="0.9999035000801086" />
+      <edge id="670" source="little" target="part" weight="0.9999023675918579" />
+      <edge id="671" source="little" target="could" weight="0.9998999834060669" />
+      <edge id="672" source="little" target="also" weight="0.9998995661735535" />
+      <edge id="673" source="little" target="tribes" weight="0.99989914894104" />
+      <edge id="674" source="little" target="us" weight="0.9998973608016968" />
+      <edge id="675" source="indians" target="first" weight="0.9999485015869141" />
+      <edge id="676" source="indians" target="among" weight="0.9999436140060425" />
+      <edge id="677" source="indians" target="one" weight="0.9999396800994873" />
+      <edge id="678" source="indians" target="life" weight="0.9999383091926575" />
+      <edge id="679" source="indians" target="great" weight="0.9999346137046814" />
+      <edge id="680" source="indians" target="tribal" weight="0.9999334216117859" />
+      <edge id="681" source="indians" target="come" weight="0.9999328851699829" />
+      <edge id="682" source="indians" target="nature" weight="0.9999297857284546" />
+      <edge id="683" source="indians" target="name" weight="0.9999297857284546" />
+      <edge id="684" source="indians" target="years" weight="0.9999289512634277" />
+      <edge id="685" source="indians" target="public" weight="0.9999265670776367" />
+      <edge id="686" source="indians" target="described" weight="0.9999262690544128" />
+      <edge id="687" source="indians" target="near" weight="0.9999255537986755" />
+      <edge id="688" source="indians" target="came" weight="0.9999234080314636" />
+      <edge id="689" source="indians" target="example" weight="0.999921441078186" />
+      <edge id="690" source="indians" target="man" weight="0.9999181628227234" />
+      <edge id="691" source="indians" target="power" weight="0.9999168515205383" />
+      <edge id="692" source="indians" target="likely" weight="0.9999119639396667" />
+      <edge id="693" source="indians" target="could" weight="0.9999116063117981" />
+      <edge id="694" source="indians" target="small" weight="0.9999095797538757" />
+      <edge id="695" source="indians" target="told" weight="0.9999088644981384" />
+      <edge id="696" source="indians" target="another" weight="0.9999058246612549" />
+      <edge id="697" source="indians" target="spirit" weight="0.9999054670333862" />
+      <edge id="698" source="indians" target="work" weight="0.9999052882194519" />
+      <edge id="699" source="indians" target="potlatch" weight="0.9999043345451355" />
+      <edge id="700" source="life" target="first" weight="0.9999512434005737" />
+      <edge id="701" source="life" target="among" weight="0.9999439716339111" />
+      <edge id="702" source="life" target="one" weight="0.9999396800994873" />
+      <edge id="703" source="life" target="indians" weight="0.9999383091926575" />
+      <edge id="704" source="life" target="described" weight="0.9999300837516785" />
+      <edge id="705" source="life" target="name" weight="0.9999269843101501" />
+      <edge id="706" source="life" target="power" weight="0.9999264478683472" />
+      <edge id="707" source="life" target="work" weight="0.9999232292175293" />
+      <edge id="708" source="life" target="come" weight="0.9999209046363831" />
+      <edge id="709" source="life" target="another" weight="0.9999208450317383" />
+      <edge id="710" source="life" target="public" weight="0.9999203681945801" />
+      <edge id="711" source="life" target="great" weight="0.9999185800552368" />
+      <edge id="712" source="life" target="years" weight="0.9999173283576965" />
+      <edge id="713" source="life" target="tribal" weight="0.9999169707298279" />
+      <edge id="714" source="life" target="man" weight="0.9999167323112488" />
+      <edge id="715" source="life" target="used" weight="0.9999164342880249" />
+      <edge id="716" source="life" target="members" weight="0.9999158382415771" />
+      <edge id="717" source="life" target="could" weight="0.9999145865440369" />
+      <edge id="718" source="life" target="nature" weight="0.999911904335022" />
+      <edge id="719" source="life" target="near" weight="0.9999114871025085" />
+      <edge id="720" source="life" target="potlatch" weight="0.9999089241027832" />
+      <edge id="721" source="life" target="example" weight="0.9999077916145325" />
+      <edge id="722" source="life" target="along" weight="0.9999074935913086" />
+      <edge id="723" source="life" target="much" weight="0.9999073147773743" />
+      <edge id="724" source="life" target="still" weight="0.999906063079834" />
+      <edge id="725" source="washington" target="vancouver" weight="0.99979567527771" />
+      <edge id="726" source="washington" target="western" weight="0.9997166395187378" />
+      <edge id="727" source="washington" target="site" weight="0.9997063875198364" />
+      <edge id="728" source="washington" target="union" weight="0.9997052550315857" />
+      <edge id="729" source="washington" target="environmental" weight="0.99969482421875" />
+      <edge id="730" source="washington" target="others" weight="0.9996896386146545" />
+      <edge id="731" source="washington" target="island" weight="0.9996817708015442" />
+      <edge id="732" source="washington" target="land" weight="0.9996816515922546" />
+      <edge id="733" source="washington" target="away" weight="0.999678373336792" />
+      <edge id="734" source="washington" target="north" weight="0.9996776580810547" />
+      <edge id="735" source="washington" target="history" weight="0.9996771812438965" />
+      <edge id="736" source="washington" target="archives" weight="0.9996733665466309" />
+      <edge id="737" source="washington" target="seeathl" weight="0.9996732473373413" />
+      <edge id="738" source="washington" target="state" weight="0.9996697306632996" />
+      <edge id="739" source="washington" target="society" weight="0.9996670484542847" />
+      <edge id="740" source="washington" target="peoples" weight="0.9996649622917175" />
+      <edge id="741" source="washington" target="became" weight="0.999661386013031" />
+      <edge id="742" source="washington" target="pacific" weight="0.9996601343154907" />
+      <edge id="743" source="washington" target="often" weight="0.9996589422225952" />
+      <edge id="744" source="washington" target="war" weight="0.9996587634086609" />
+      <edge id="745" source="washington" target="wrote" weight="0.9996575117111206" />
+      <edge id="746" source="washington" target="wife" weight="0.9996572732925415" />
+      <edge id="747" source="washington" target="early" weight="0.9996559023857117" />
+      <edge id="748" source="washington" target="rather" weight="0.9996556043624878" />
+      <edge id="749" source="washington" target="tribe" weight="0.9996505975723267" />
+      <edge id="750" source="land" target="site" weight="0.9999492764472961" />
+      <edge id="751" source="land" target="often" weight="0.9999386072158813" />
+      <edge id="752" source="land" target="seeathl" weight="0.9999334812164307" />
+      <edge id="753" source="land" target="cultural" weight="0.9999302625656128" />
+      <edge id="754" source="land" target="others" weight="0.999929666519165" />
+      <edge id="755" source="land" target="hill" weight="0.9999222755432129" />
+      <edge id="756" source="land" target="back" weight="0.9999215602874756" />
+      <edge id="757" source="land" target="long" weight="0.9999210834503174" />
+      <edge id="758" source="land" target="wife" weight="0.9999162554740906" />
+      <edge id="759" source="land" target="named" weight="0.9999125003814697" />
+      <edge id="760" source="land" target="north" weight="0.9999122619628906" />
+      <edge id="761" source="land" target="environmental" weight="0.9999122619628906" />
+      <edge id="762" source="land" target="away" weight="0.9999120235443115" />
+      <edge id="763" source="land" target="civic" weight="0.999911367893219" />
+      <edge id="764" source="land" target="whose" weight="0.9999109506607056" />
+      <edge id="765" source="land" target="old" weight="0.9999098181724548" />
+      <edge id="766" source="land" target="high" weight="0.9999091029167175" />
+      <edge id="767" source="land" target="waterman" weight="0.9999091029167175" />
+      <edge id="768" source="land" target="seemed" weight="0.9999057054519653" />
+      <edge id="769" source="land" target="way" weight="0.999904990196228" />
+      <edge id="770" source="land" target="every" weight="0.9999042749404907" />
+      <edge id="771" source="land" target="world" weight="0.9999035596847534" />
+      <edge id="772" source="land" target="became" weight="0.9999035000801086" />
+      <edge id="773" source="land" target="might" weight="0.9999024868011475" />
+      <edge id="774" source="land" target="peoples" weight="0.9999024868011475" />
+      <edge id="775" source="north" target="way" weight="0.9999228119850159" />
+      <edge id="776" source="north" target="northwest" weight="0.9999144673347473" />
+      <edge id="777" source="north" target="long" weight="0.9999129772186279" />
+      <edge id="778" source="north" target="land" weight="0.9999121427536011" />
+      <edge id="779" source="north" target="back" weight="0.9999120831489563" />
+      <edge id="780" source="north" target="others" weight="0.9999092817306519" />
+      <edge id="781" source="north" target="pacific" weight="0.999907374382019" />
+      <edge id="782" source="north" target="site" weight="0.9999062418937683" />
+      <edge id="783" source="north" target="pioneers" weight="0.9999005198478699" />
+      <edge id="784" source="north" target="might" weight="0.9998999834060669" />
+      <edge id="785" source="north" target="came" weight="0.9998951554298401" />
+      <edge id="786" source="north" target="whose" weight="0.9998940825462341" />
+      <edge id="787" source="north" target="salmon" weight="0.9998939037322998" />
+      <edge id="788" source="north" target="small" weight="0.9998936653137207" />
+      <edge id="789" source="north" target="seemed" weight="0.9998936057090759" />
+      <edge id="790" source="north" target="fish" weight="0.9998908042907715" />
+      <edge id="791" source="north" target="race" weight="0.9998897314071655" />
+      <edge id="792" source="north" target="often" weight="0.9998865127563477" />
+      <edge id="793" source="north" target="center" weight="0.9998838901519775" />
+      <edge id="794" source="north" target="helped" weight="0.9998834133148193" />
+      <edge id="795" source="north" target="waterman" weight="0.9998834133148193" />
+      <edge id="796" source="north" target="large" weight="0.9998834133148193" />
+      <edge id="797" source="north" target="hill" weight="0.9998831748962402" />
+      <edge id="798" source="north" target="named" weight="0.9998828172683716" />
+      <edge id="799" source="north" target="early" weight="0.999880850315094" />
+      <edge id="800" source="history" target="ing" weight="0.9999321103096008" />
+      <edge id="801" source="history" target="cities" weight="0.9999271631240845" />
+      <edge id="802" source="history" target="national" weight="0.9999224543571472" />
+      <edge id="803" source="history" target="old" weight="0.9999218583106995" />
+      <edge id="804" source="history" target="seeathl" weight="0.9999143481254578" />
+      <edge id="805" source="history" target="fire" weight="0.9999105930328369" />
+      <edge id="806" source="history" target="street" weight="0.9999066591262817" />
+      <edge id="807" source="history" target="island" weight="0.9999053478240967" />
+      <edge id="808" source="history" target="makah" weight="0.9999053478240967" />
+      <edge id="809" source="history" target="often" weight="0.9999047517776489" />
+      <edge id="810" source="history" target="things" weight="0.9999034404754639" />
+      <edge id="811" source="history" target="became" weight="0.9999029636383057" />
+      <edge id="812" source="history" target="wife" weight="0.9999009370803833" />
+      <edge id="813" source="history" target="cultural" weight="0.9999002814292908" />
+      <edge id="814" source="history" target="real" weight="0.999900221824646" />
+      <edge id="815" source="history" target="society" weight="0.9998949766159058" />
+      <edge id="816" source="history" target="high" weight="0.9998933672904968" />
+      <edge id="817" source="history" target="words" weight="0.9998923540115356" />
+      <edge id="818" source="history" target="names" weight="0.9998918175697327" />
+      <edge id="819" source="history" target="war" weight="0.9998916983604431" />
+      <edge id="820" source="history" target="woman" weight="0.9998900890350342" />
+      <edge id="821" source="history" target="tribe" weight="0.9998894333839417" />
+      <edge id="822" source="history" target="left" weight="0.9998888969421387" />
+      <edge id="823" source="history" target="change" weight="0.9998873472213745" />
+      <edge id="824" source="history" target="four" weight="0.9998871088027954" />
+      <edge id="825" source="press" target="charles" weight="0.9996446371078491" />
+      <edge id="826" source="press" target="smith" weight="0.9996036291122437" />
+      <edge id="827" source="press" target="robert" weight="0.9995855093002319" />
+      <edge id="828" source="press" target="co" weight="0.999553918838501" />
+      <edge id="829" source="press" target="thomas" weight="0.9995487332344055" />
+      <edge id="830" source="press" target="william" weight="0.9995006918907166" />
+      <edge id="831" source="press" target="j" weight="0.9994710087776184" />
+      <edge id="832" source="press" target="mscua" weight="0.9994468688964844" />
+      <edge id="833" source="press" target="mohai" weight="0.9994093775749207" />
+      <edge id="834" source="press" target="warren" weight="0.9993445873260498" />
+      <edge id="835" source="press" target="june" weight="0.9993440508842468" />
+      <edge id="836" source="press" target="february" weight="0.9993361234664917" />
+      <edge id="837" source="press" target="angeline" weight="0.9993310570716858" />
+      <edge id="838" source="press" target="richard" weight="0.9992571473121643" />
+      <edge id="839" source="press" target="judge" weight="0.9992440342903137" />
+      <edge id="840" source="press" target="april" weight="0.9991816878318787" />
+      <edge id="841" source="press" target="blaine" weight="0.999172568321228" />
+      <edge id="842" source="press" target="eds" weight="0.9991467595100403" />
+      <edge id="843" source="press" target="james" weight="0.9991360306739807" />
+      <edge id="844" source="press" target="marian" weight="0.999119758605957" />
+      <edge id="845" source="press" target="dictionary" weight="0.999118447303772" />
+      <edge id="846" source="press" target="famous" weight="0.9991011023521423" />
+      <edge id="847" source="press" target="interior" weight="0.9990972280502319" />
+      <edge id="848" source="press" target="august" weight="0.9990506768226624" />
+      <edge id="849" source="press" target="see" weight="0.9990448355674744" />
+      <edge id="850" source="sound" target="across" weight="0.9989613890647888" />
+      <edge id="851" source="sound" target="throughout" weight="0.998866856098175" />
+      <edge id="852" source="sound" target="party" weight="0.9988476634025574" />
+      <edge id="853" source="sound" target="name" weight="0.9988411664962769" />
+      <edge id="854" source="sound" target="life" weight="0.9988114833831787" />
+      <edge id="855" source="sound" target="along" weight="0.9988077878952026" />
+      <edge id="856" source="sound" target="leaders" weight="0.9988037943840027" />
+      <edge id="857" source="sound" target="house" weight="0.998792827129364" />
+      <edge id="858" source="sound" target="nous" weight="0.9987901449203491" />
+      <edge id="859" source="sound" target="south" weight="0.998788595199585" />
+      <edge id="860" source="sound" target="man" weight="0.9987850785255432" />
+      <edge id="861" source="sound" target="home" weight="0.9987815618515015" />
+      <edge id="862" source="sound" target="used" weight="0.998779296875" />
+      <edge id="863" source="sound" target="days" weight="0.9987758994102478" />
+      <edge id="864" source="sound" target="still" weight="0.998767077922821" />
+      <edge id="865" source="sound" target="around" weight="0.9987621307373047" />
+      <edge id="866" source="sound" target="central" weight="0.9987590312957764" />
+      <edge id="867" source="sound" target="one" weight="0.9987478256225586" />
+      <edge id="868" source="sound" target="arrival" weight="0.9987470507621765" />
+      <edge id="869" source="sound" target="first" weight="0.9987456798553467" />
+      <edge id="870" source="sound" target="ever" weight="0.998740553855896" />
+      <edge id="871" source="sound" target="another" weight="0.9987404346466064" />
+      <edge id="872" source="sound" target="near" weight="0.9987403750419617" />
+      <edge id="873" source="sound" target="remained" weight="0.9987378120422363" />
+      <edge id="874" source="sound" target="whulshootseed" weight="0.9987373352050781" />
+      <edge id="875" source="university" target="alaska" weight="0.9995191097259521" />
+      <edge id="876" source="university" target="puyallup" weight="0.999509334564209" />
+      <edge id="877" source="university" target="john" weight="0.9994959831237793" />
+      <edge id="878" source="university" target="jay" weight="0.999477207660675" />
+      <edge id="879" source="university" target="paul" weight="0.9994665384292603" />
+      <edge id="880" source="university" target="american" weight="0.9994557499885559" />
+      <edge id="881" source="university" target="george" weight="0.9994542002677917" />
+      <edge id="882" source="university" target="daniel" weight="0.9994537234306335" />
+      <edge id="883" source="university" target="david" weight="0.9994503259658813" />
+      <edge id="884" source="university" target="portland" weight="0.9994487762451172" />
+      <edge id="885" source="university" target="november" weight="0.99944007396698" />
+      <edge id="886" source="university" target="columbia" weight="0.9994206428527832" />
+      <edge id="887" source="university" target="may" weight="0.9994122385978699" />
+      <edge id="888" source="university" target="september" weight="0.999409556388855" />
+      <edge id="889" source="university" target="chicago" weight="0.9994078278541565" />
+      <edge id="890" source="university" target="collection" weight="0.9993946552276611" />
+      <edge id="891" source="university" target="notes" weight="0.9993934035301208" />
+      <edge id="892" source="university" target="january" weight="0.9993923306465149" />
+      <edge id="893" source="university" target="spring" weight="0.9993894100189209" />
+      <edge id="894" source="university" target="daughter" weight="0.9993877410888672" />
+      <edge id="895" source="university" target="davis" weight="0.999376654624939" />
+      <edge id="896" source="university" target="age" weight="0.9993765950202942" />
+      <edge id="897" source="university" target="papers" weight="0.9993764758110046" />
+      <edge id="898" source="university" target="mercer" weight="0.9993758201599121" />
+      <edge id="899" source="university" target="books" weight="0.9993714690208435" />
+      <edge id="900" source="john" target="may" weight="0.9999440908432007" />
+      <edge id="901" source="john" target="alaska" weight="0.9999358654022217" />
+      <edge id="902" source="john" target="david" weight="0.9999256134033203" />
+      <edge id="903" source="john" target="american" weight="0.9999068975448608" />
+      <edge id="904" source="john" target="fort" weight="0.9998739361763" />
+      <edge id="905" source="john" target="books" weight="0.9998663663864136" />
+      <edge id="906" source="john" target="historical" weight="0.9998626708984375" />
+      <edge id="907" source="john" target="mercer" weight="0.9998615384101868" />
+      <edge id="908" source="john" target="mary" weight="0.9998599290847778" />
+      <edge id="909" source="john" target="january" weight="0.999858021736145" />
+      <edge id="910" source="john" target="daughter" weight="0.9998520612716675" />
+      <edge id="911" source="john" target="williams" weight="0.999847948551178" />
+      <edge id="912" source="john" target="family" weight="0.9998469948768616" />
+      <edge id="913" source="john" target="portland" weight="0.9998465776443481" />
+      <edge id="914" source="john" target="puyallup" weight="0.9998456239700317" />
+      <edge id="915" source="john" target="november" weight="0.999836802482605" />
+      <edge id="916" source="john" target="september" weight="0.9998295307159424" />
+      <edge id="917" source="john" target="spring" weight="0.9998201131820679" />
+      <edge id="918" source="john" target="railroad" weight="0.9998162984848022" />
+      <edge id="919" source="john" target="george" weight="0.9998118877410889" />
+      <edge id="920" source="john" target="yesler" weight="0.9998105764389038" />
+      <edge id="921" source="john" target="papers" weight="0.9998103380203247" />
+      <edge id="922" source="john" target="line" weight="0.9998096227645874" />
+      <edge id="923" source="john" target="age" weight="0.9998055696487427" />
+      <edge id="924" source="john" target="publishing" weight="0.9998049139976501" />
+      <edge id="925" source="old" target="seeathl" weight="0.999932587146759" />
+      <edge id="926" source="old" target="wife" weight="0.9999264478683472" />
+      <edge id="927" source="old" target="fire" weight="0.9999244809150696" />
+      <edge id="928" source="old" target="ing" weight="0.999922513961792" />
+      <edge id="929" source="old" target="history" weight="0.999921977519989" />
+      <edge id="930" source="old" target="tribe" weight="0.9999211430549622" />
+      <edge id="931" source="old" target="became" weight="0.9999159574508667" />
+      <edge id="932" source="old" target="cultural" weight="0.9999151229858398" />
+      <edge id="933" source="old" target="real" weight="0.999913215637207" />
+      <edge id="934" source="old" target="land" weight="0.9999096393585205" />
+      <edge id="935" source="old" target="island" weight="0.9999088644981384" />
+      <edge id="936" source="old" target="high" weight="0.9999082088470459" />
+      <edge id="937" source="old" target="site" weight="0.9999080896377563" />
+      <edge id="938" source="old" target="often" weight="0.9999059438705444" />
+      <edge id="939" source="old" target="left" weight="0.9999056458473206" />
+      <edge id="940" source="old" target="things" weight="0.9999045729637146" />
+      <edge id="941" source="old" target="national" weight="0.999903678894043" />
+      <edge id="942" source="old" target="society" weight="0.9999023675918579" />
+      <edge id="943" source="old" target="street" weight="0.9999013543128967" />
+      <edge id="944" source="old" target="cities" weight="0.9999006390571594" />
+      <edge id="945" source="old" target="names" weight="0.9998980164527893" />
+      <edge id="946" source="old" target="woman" weight="0.9998968243598938" />
+      <edge id="947" source="old" target="bay" weight="0.999895453453064" />
+      <edge id="948" source="old" target="words" weight="0.999894380569458" />
+      <edge id="949" source="old" target="away" weight="0.9998905658721924" />
+      <edge id="950" source="puget" target="days" weight="0.9985519051551819" />
+      <edge id="951" source="puget" target="across" weight="0.9985019564628601" />
+      <edge id="952" source="puget" target="beach" weight="0.9984930753707886" />
+      <edge id="953" source="puget" target="gathering" weight="0.9984921216964722" />
+      <edge id="954" source="puget" target="good" weight="0.9984620809555054" />
+      <edge id="955" source="puget" target="mouth" weight="0.9984391331672668" />
+      <edge id="956" source="puget" target="described" weight="0.9984282851219177" />
+      <edge id="957" source="puget" target="still" weight="0.9984252452850342" />
+      <edge id="958" source="puget" target="south" weight="0.998420000076294" />
+      <edge id="959" source="puget" target="central" weight="0.9984086155891418" />
+      <edge id="960" source="puget" target="inside" weight="0.9983950257301331" />
+      <edge id="961" source="puget" target="throughout" weight="0.9983712434768677" />
+      <edge id="962" source="puget" target="fish" weight="0.9983678460121155" />
+      <edge id="963" source="puget" target="ever" weight="0.9983624219894409" />
+      <edge id="964" source="puget" target="used" weight="0.9983566999435425" />
+      <edge id="965" source="puget" target="along" weight="0.9983551502227783" />
+      <edge id="966" source="puget" target="reflected" weight="0.9983484745025635" />
+      <edge id="967" source="puget" target="families" weight="0.9983484745025635" />
+      <edge id="968" source="puget" target="back" weight="0.9983412027359009" />
+      <edge id="969" source="puget" target="ship" weight="0.9983353614807129" />
+      <edge id="970" source="puget" target="agency" weight="0.9983349442481995" />
+      <edge id="971" source="puget" target="life" weight="0.9983330965042114" />
+      <edge id="972" source="puget" target="three" weight="0.9983324408531189" />
+      <edge id="973" source="puget" target="ways" weight="0.9983275532722473" />
+      <edge id="974" source="puget" target="years" weight="0.9983267784118652" />
+      <edge id="975" source="west" target="time" weight="0.9999256730079651" />
+      <edge id="976" source="west" target="like" weight="0.9999200701713562" />
+      <edge id="977" source="west" target="two" weight="0.9999198913574219" />
+      <edge id="978" source="west" target="could" weight="0.9999179840087891" />
+      <edge id="979" source="west" target="along" weight="0.9999125003814697" />
+      <edge id="980" source="west" target="house" weight="0.9999103546142578" />
+      <edge id="981" source="west" target="well" weight="0.9999083280563354" />
+      <edge id="982" source="west" target="home" weight="0.9999077320098877" />
+      <edge id="983" source="west" target="little" weight="0.9999076128005981" />
+      <edge id="984" source="west" target="found" weight="0.9999052286148071" />
+      <edge id="985" source="west" target="used" weight="0.9999045133590698" />
+      <edge id="986" source="west" target="called" weight="0.9999032616615295" />
+      <edge id="987" source="west" target="city" weight="0.9998995661735535" />
+      <edge id="988" source="west" target="tribes" weight="0.9998995661735535" />
+      <edge id="989" source="west" target="landscape" weight="0.9998966455459595" />
+      <edge id="990" source="west" target="work" weight="0.9998912811279297" />
+      <edge id="991" source="west" target="much" weight="0.9998911023139954" />
+      <edge id="992" source="west" target="another" weight="0.999890923500061" />
+      <edge id="993" source="west" target="potlatch" weight="0.9998906254768372" />
+      <edge id="994" source="west" target="residents" weight="0.9998882412910461" />
+      <edge id="995" source="west" target="even" weight="0.9998860359191895" />
+      <edge id="996" source="west" target="lived" weight="0.9998858571052551" />
+      <edge id="997" source="west" target="three" weight="0.9998856782913208" />
+      <edge id="998" source="west" target="still" weight="0.9998855590820312" />
+      <edge id="999" source="west" target="made" weight="0.999885082244873" />
+      <edge id="1000" source="story" target="one" weight="0.9999017119407654" />
+      <edge id="1001" source="story" target="back" weight="0.9999008774757385" />
+      <edge id="1002" source="story" target="came" weight="0.9998975992202759" />
+      <edge id="1003" source="story" target="indians" weight="0.9998941421508789" />
+      <edge id="1004" source="story" target="great" weight="0.9998916387557983" />
+      <edge id="1005" source="story" target="small" weight="0.9998877048492432" />
+      <edge id="1006" source="story" target="way" weight="0.9998867511749268" />
+      <edge id="1007" source="story" target="world" weight="0.9998847842216492" />
+      <edge id="1008" source="story" target="end" weight="0.9998818635940552" />
+      <edge id="1009" source="story" target="together" weight="0.9998772740364075" />
+      <edge id="1010" source="story" target="long" weight="0.9998738169670105" />
+      <edge id="1011" source="story" target="whose" weight="0.9998732209205627" />
+      <edge id="1012" source="story" target="first" weight="0.9998726844787598" />
+      <edge id="1013" source="story" target="however" weight="0.9998711943626404" />
+      <edge id="1014" source="story" target="public" weight="0.9998701214790344" />
+      <edge id="1015" source="story" target="seemed" weight="0.9998701214790344" />
+      <edge id="1016" source="story" target="told" weight="0.9998698234558105" />
+      <edge id="1017" source="story" target="name" weight="0.9998664259910583" />
+      <edge id="1018" source="story" target="land" weight="0.9998654723167419" />
+      <edge id="1019" source="story" target="race" weight="0.9998646974563599" />
+      <edge id="1020" source="story" target="others" weight="0.9998645782470703" />
+      <edge id="1021" source="story" target="brought" weight="0.99986332654953" />
+      <edge id="1022" source="story" target="site" weight="0.9998630881309509" />
+      <edge id="1023" source="story" target="among" weight="0.9998621940612793" />
+      <edge id="1024" source="story" target="park" weight="0.9998618364334106" />
+      <edge id="1025" source="denny" target="family" weight="0.9998696446418762" />
+      <edge id="1026" source="denny" target="meanwhile" weight="0.9998635053634644" />
+      <edge id="1027" source="denny" target="several" weight="0.9998583793640137" />
+      <edge id="1028" source="denny" target="water" weight="0.9998550415039062" />
+      <edge id="1029" source="denny" target="recalled" weight="0.9998252391815186" />
+      <edge id="1030" source="denny" target="day" weight="0.9998214244842529" />
+      <edge id="1031" source="denny" target="mary" weight="0.9998100996017456" />
+      <edge id="1032" source="denny" target="historical" weight="0.999809741973877" />
+      <edge id="1033" source="denny" target="harrington" weight="0.999805748462677" />
+      <edge id="1034" source="denny" target="king" weight="0.9997991919517517" />
+      <edge id="1035" source="denny" target="lawton" weight="0.9997960329055786" />
+      <edge id="1036" source="denny" target="ballard" weight="0.9997949004173279" />
+      <edge id="1037" source="denny" target="tion" weight="0.9997942447662354" />
+      <edge id="1038" source="denny" target="area" weight="0.9997942447662354" />
+      <edge id="1039" source="denny" target="seattle" weight="0.9997940063476562" />
+      <edge id="1040" source="denny" target="village" weight="0.9997928738594055" />
+      <edge id="1041" source="denny" target="built" weight="0.9997926950454712" />
+      <edge id="1042" source="denny" target="foot" weight="0.9997912645339966" />
+      <edge id="1043" source="denny" target="tlingit" weight="0.9997899532318115" />
+      <edge id="1044" source="denny" target="fort" weight="0.9997882843017578" />
+      <edge id="1045" source="denny" target="report" weight="0.9997872114181519" />
+      <edge id="1046" source="denny" target="williams" weight="0.9997850060462952" />
+      <edge id="1047" source="denny" target="gold" weight="0.9997798204421997" />
+      <edge id="1048" source="denny" target="seen" weight="0.9997789859771729" />
+      <edge id="1049" source="denny" target="streets" weight="0.999777615070343" />
+      <edge id="1050" source="northwest" target="north" weight="0.9999144077301025" />
+      <edge id="1051" source="northwest" target="land" weight="0.9998934268951416" />
+      <edge id="1052" source="northwest" target="pacific" weight="0.9998878240585327" />
+      <edge id="1053" source="northwest" target="way" weight="0.9998818635940552" />
+      <edge id="1054" source="northwest" target="peoples" weight="0.9998770356178284" />
+      <edge id="1055" source="northwest" target="site" weight="0.9998759627342224" />
+      <edge id="1056" source="northwest" target="canoes" weight="0.9998740553855896" />
+      <edge id="1057" source="northwest" target="long" weight="0.9998717308044434" />
+      <edge id="1058" source="northwest" target="might" weight="0.9998708367347717" />
+      <edge id="1059" source="northwest" target="others" weight="0.9998703598976135" />
+      <edge id="1060" source="northwest" target="environmental" weight="0.9998679161071777" />
+      <edge id="1061" source="northwest" target="often" weight="0.9998630285263062" />
+      <edge id="1062" source="northwest" target="back" weight="0.9998626112937927" />
+      <edge id="1063" source="northwest" target="pioneers" weight="0.9998608827590942" />
+      <edge id="1064" source="northwest" target="cultural" weight="0.9998563528060913" />
+      <edge id="1065" source="northwest" target="named" weight="0.9998519420623779" />
+      <edge id="1066" source="northwest" target="seeathl" weight="0.9998518228530884" />
+      <edge id="1067" source="northwest" target="race" weight="0.9998509883880615" />
+      <edge id="1068" source="northwest" target="beyond" weight="0.999850869178772" />
+      <edge id="1069" source="northwest" target="seemed" weight="0.9998497366905212" />
+      <edge id="1070" source="northwest" target="center" weight="0.9998471140861511" />
+      <edge id="1071" source="northwest" target="small" weight="0.9998461008071899" />
+      <edge id="1072" source="northwest" target="away" weight="0.9998459815979004" />
+      <edge id="1073" source="northwest" target="vancouver" weight="0.9998456835746765" />
+      <edge id="1074" source="northwest" target="downtown" weight="0.9998452067375183" />
+      <edge id="1075" source="men" target="living" weight="0.9998930096626282" />
+      <edge id="1076" source="men" target="also" weight="0.9998902082443237" />
+      <edge id="1077" source="men" target="city" weight="0.9998802542686462" />
+      <edge id="1078" source="men" target="home" weight="0.9998787641525269" />
+      <edge id="1079" source="men" target="even" weight="0.9998778104782104" />
+      <edge id="1080" source="men" target="made" weight="0.9998764991760254" />
+      <edge id="1081" source="men" target="town" weight="0.9998760223388672" />
+      <edge id="1082" source="men" target="white" weight="0.9998756647109985" />
+      <edge id="1083" source="men" target="residents" weight="0.9998708963394165" />
+      <edge id="1084" source="men" target="lived" weight="0.9998708963394165" />
+      <edge id="1085" source="men" target="become" weight="0.9998691082000732" />
+      <edge id="1086" source="men" target="like" weight="0.9998670220375061" />
+      <edge id="1087" source="men" target="landscape" weight="0.9998663067817688" />
+      <edge id="1088" source="men" target="found" weight="0.9998617768287659" />
+      <edge id="1089" source="men" target="time" weight="0.9998559951782227" />
+      <edge id="1090" source="men" target="urban" weight="0.9998548030853271" />
+      <edge id="1091" source="men" target="could" weight="0.9998540878295898" />
+      <edge id="1092" source="men" target="past" weight="0.9998531341552734" />
+      <edge id="1093" source="men" target="called" weight="0.9998531341552734" />
+      <edge id="1094" source="men" target="little" weight="0.9998518228530884" />
+      <edge id="1095" source="men" target="two" weight="0.9998514652252197" />
+      <edge id="1096" source="men" target="well" weight="0.9998494386672974" />
+      <edge id="1097" source="men" target="indigenous" weight="0.9998445510864258" />
+      <edge id="1098" source="men" target="ways" weight="0.9998413324356079" />
+      <edge id="1099" source="men" target="part" weight="0.9998392462730408" />
+      <edge id="1100" source="chief" target="ing" weight="0.9998829364776611" />
+      <edge id="1101" source="chief" target="times" weight="0.9998800754547119" />
+      <edge id="1102" source="chief" target="history" weight="0.9998628497123718" />
+      <edge id="1103" source="chief" target="cities" weight="0.9998612403869629" />
+      <edge id="1104" source="chief" target="old" weight="0.999854326248169" />
+      <edge id="1105" source="chief" target="pole" weight="0.9998524785041809" />
+      <edge id="1106" source="chief" target="words" weight="0.9998524188995361" />
+      <edge id="1107" source="chief" target="tribe" weight="0.9998488426208496" />
+      <edge id="1108" source="chief" target="real" weight="0.9998449087142944" />
+      <edge id="1109" source="chief" target="national" weight="0.9998348951339722" />
+      <edge id="1110" source="chief" target="makah" weight="0.9998313784599304" />
+      <edge id="1111" source="chief" target="street" weight="0.999830424785614" />
+      <edge id="1112" source="chief" target="seeathl" weight="0.9998274445533752" />
+      <edge id="1113" source="chief" target="society" weight="0.9998267889022827" />
+      <edge id="1114" source="chief" target="fire" weight="0.9998260140419006" />
+      <edge id="1115" source="chief" target="red" weight="0.999824583530426" />
+      <edge id="1116" source="chief" target="four" weight="0.9998226165771484" />
+      <edge id="1117" source="chief" target="high" weight="0.9998184442520142" />
+      <edge id="1118" source="chief" target="modern" weight="0.999817967414856" />
+      <edge id="1119" source="chief" target="next" weight="0.999817967414856" />
+      <edge id="1120" source="chief" target="recalled" weight="0.9998165369033813" />
+      <edge id="1121" source="chief" target="reservation" weight="0.9998152256011963" />
+      <edge id="1122" source="chief" target="island" weight="0.9998132586479187" />
+      <edge id="1123" source="chief" target="things" weight="0.9998126029968262" />
+      <edge id="1124" source="chief" target="children" weight="0.9998108148574829" />
+      <edge id="1125" source="pioneer" target="recalled" weight="0.9998494982719421" />
+      <edge id="1126" source="pioneer" target="water" weight="0.999847412109375" />
+      <edge id="1127" source="pioneer" target="ing" weight="0.9998436570167542" />
+      <edge id="1128" source="pioneer" target="district" weight="0.9998381733894348" />
+      <edge id="1129" source="pioneer" target="street" weight="0.9998278617858887" />
+      <edge id="1130" source="pioneer" target="reservation" weight="0.9998246431350708" />
+      <edge id="1131" source="pioneer" target="words" weight="0.9998227953910828" />
+      <edge id="1132" source="pioneer" target="makah" weight="0.9998212456703186" />
+      <edge id="1133" source="pioneer" target="school" weight="0.9998183250427246" />
+      <edge id="1134" source="pioneer" target="tlingit" weight="0.9998170137405396" />
+      <edge id="1135" source="pioneer" target="wealth" weight="0.9998149871826172" />
+      <edge id="1136" source="pioneer" target="go" weight="0.9998133182525635" />
+      <edge id="1137" source="pioneer" target="tilikums" weight="0.9998130202293396" />
+      <edge id="1138" source="pioneer" target="cities" weight="0.9998104572296143" />
+      <edge id="1139" source="pioneer" target="history" weight="0.9998091459274292" />
+      <edge id="1140" source="pioneer" target="king" weight="0.9998083710670471" />
+      <edge id="1141" source="pioneer" target="national" weight="0.999808132648468" />
+      <edge id="1142" source="pioneer" target="four" weight="0.9998063445091248" />
+      <edge id="1143" source="pioneer" target="tribe" weight="0.999805212020874" />
+      <edge id="1144" source="pioneer" target="times" weight="0.9998047351837158" />
+      <edge id="1145" source="pioneer" target="names" weight="0.9998036623001099" />
+      <edge id="1146" source="pioneer" target="real" weight="0.9998036623001099" />
+      <edge id="1147" source="pioneer" target="took" weight="0.9998026490211487" />
+      <edge id="1148" source="pioneer" target="old" weight="0.9998016357421875" />
+      <edge id="1149" source="pioneer" target="meanwhile" weight="0.9998007416725159" />
+      <edge id="1150" source="york" target="hanford" weight="0.9994540810585022" />
+      <edge id="1151" source="york" target="edited" weight="0.9994459748268127" />
+      <edge id="1152" source="york" target="prosch" weight="0.9993994235992432" />
+      <edge id="1153" source="york" target="ye" weight="0.9992901086807251" />
+      <edge id="1154" source="york" target="blaine" weight="0.9992760419845581" />
+      <edge id="1155" source="york" target="robert" weight="0.999230146408081" />
+      <edge id="1156" source="york" target="thomas" weight="0.999196469783783" />
+      <edge id="1157" source="york" target="smith" weight="0.9991921186447144" />
+      <edge id="1158" source="york" target="ms" weight="0.9991064071655273" />
+      <edge id="1159" source="york" target="bruce" weight="0.9990256428718567" />
+      <edge id="1160" source="york" target="press" weight="0.9990255236625671" />
+      <edge id="1161" source="york" target="covered" weight="0.9990184307098389" />
+      <edge id="1162" source="york" target="mohai" weight="0.9990180134773254" />
+      <edge id="1163" source="york" target="ch" weight="0.9989897608757019" />
+      <edge id="1164" source="york" target="april" weight="0.9989427328109741" />
+      <edge id="1165" source="york" target="chadwick" weight="0.9989375472068787" />
+      <edge id="1166" source="york" target="co" weight="0.9989269971847534" />
+      <edge id="1167" source="york" target="kinnear" weight="0.9988898634910583" />
+      <edge id="1168" source="york" target="charles" weight="0.9988657236099243" />
+      <edge id="1169" source="york" target="stauss" weight="0.9986220002174377" />
+      <edge id="1170" source="york" target="judge" weight="0.9985584616661072" />
+      <edge id="1171" source="york" target="changers" weight="0.9985533952713013" />
+      <edge id="1172" source="york" target="famous" weight="0.9985237717628479" />
+      <edge id="1173" source="york" target="mscua" weight="0.9985116720199585" />
+      <edge id="1174" source="york" target="february" weight="0.9984593987464905" />
+      <edge id="1175" source="coast" target="like" weight="0.999883234500885" />
+      <edge id="1176" source="coast" target="called" weight="0.9998813271522522" />
+      <edge id="1177" source="coast" target="along" weight="0.9998795986175537" />
+      <edge id="1178" source="coast" target="house" weight="0.9998781681060791" />
+      <edge id="1179" source="coast" target="found" weight="0.9998759031295776" />
+      <edge id="1180" source="coast" target="home" weight="0.9998754262924194" />
+      <edge id="1181" source="coast" target="well" weight="0.9998745322227478" />
+      <edge id="1182" source="coast" target="time" weight="0.9998733997344971" />
+      <edge id="1183" source="coast" target="used" weight="0.9998731017112732" />
+      <edge id="1184" source="coast" target="two" weight="0.9998713135719299" />
+      <edge id="1185" source="coast" target="living" weight="0.9998658299446106" />
+      <edge id="1186" source="coast" target="far" weight="0.999865710735321" />
+      <edge id="1187" source="coast" target="west" weight="0.999862790107727" />
+      <edge id="1188" source="coast" target="tribes" weight="0.9998607635498047" />
+      <edge id="1189" source="coast" target="city" weight="0.9998596906661987" />
+      <edge id="1190" source="coast" target="landscape" weight="0.9998595118522644" />
+      <edge id="1191" source="coast" target="even" weight="0.9998574256896973" />
+      <edge id="1192" source="coast" target="residents" weight="0.9998555183410645" />
+      <edge id="1193" source="coast" target="town" weight="0.9998552203178406" />
+      <edge id="1194" source="coast" target="little" weight="0.9998552203178406" />
+      <edge id="1195" source="coast" target="lived" weight="0.999853253364563" />
+      <edge id="1196" source="coast" target="still" weight="0.9998490810394287" />
+      <edge id="1197" source="coast" target="much" weight="0.9998486638069153" />
+      <edge id="1198" source="coast" target="creation" weight="0.999846339225769" />
+      <edge id="1199" source="coast" target="said" weight="0.9998460412025452" />
+    </edges>
+  </graph>
+</gexf>
